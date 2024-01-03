@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47xoft6e7q2yqlz0vj52ykpigcp67jrxdmz3acryi9&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya26062003&label=Profile%20views&color=0e75b6&style=flat" alt="aditya26062003" /> </p>
 
 - ⚡ Fun fact **Space enthusiast here! When I'm not pushing code, I'm exploring the cosmos through my telescope. Fascinated by the wonders beyond our planet, I find inspiration in the vastness of space. 🌠✨ #CodeInSpace**
