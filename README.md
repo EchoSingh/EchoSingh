@@ -1,6 +1,5 @@
 
-
-<h1 align="center">Hello! 👋 I'm Aditya Singh, Exploring the World of Code on GitHub!</h1>
+<h1 align="center">Hello! 👋 I'm Aditya Singh, Exploring the World of Code on GitHub!!</h1>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasingh26062003) [![Codeforces](a.jpg)](https://codeforces.com/profile/adi_2606) 
