@@ -20,15 +20,9 @@
     <a href="https://huggingface.co/adi2606" style="color: #1E40AF; text-decoration: none;">Hugging Face</a>
 </h4>
   
-  <div style="margin: 20px 0;">
-    <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=EchoSingh&amp;border_radius=10&amp;card_width=500&amp;ring=9C6BFF&amp;fire=9C6BFF&amp;currStreakLabel=9C6BFF&amp;border=FFFFFF00&amp;background=FFFFFF00&amp;stroke=FFFFFF00&amp;currStreakNum=7F3F98&amp;sideNums=7F3F98&amp;sideLabels=7F3F98&amp;dates=A38CCF&amp;excludeDaysLabel=A38CCF" 
-        alt="GitHub Streak" 
-        loading="lazy" 
-        title="GitHub Streak" 
-        style="width: 50%; max-width: 500px;"
-    >
-</div>
+ 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EchoSingh&theme=nightowl&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+
 
 
   <div style="margin: 20px 0;">
