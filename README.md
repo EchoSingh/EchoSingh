@@ -21,7 +21,7 @@
 </h4>
   
  
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EchoSingh&theme=nightowl&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EchoSingh&theme=nightowl&short_numbers=true&mode=weekly" alt="GitHub Streak" />
 
 
 
