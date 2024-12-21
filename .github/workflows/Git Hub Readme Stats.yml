@@ -22,10 +22,10 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ->
-          CODE_LANG: text
+          CODE_LANG: c#
           TIME_RANGE: last_30_days
-          LANG_COUNT: 2
-          SHOW_TIME: true
+          LANG_COUNT: 3
+          SHOW_TIME: false
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: false
