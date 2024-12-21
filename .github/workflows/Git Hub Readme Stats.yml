@@ -19,17 +19,16 @@ jobs:
           REPOSITORY: aditya26062003/aditya26062003 
           
           ### content
-          SHOW_TITLE: true 
-          SECTION_NAME: waka 
-          BLOCKS: -> 
-          CODE_LANG: f#
-          TIME_RANGE: all_time 
-          LANG_COUNT: 4
-          SHOW_TIME: false 
-          SHOW_TOTAL: false 
-          SHOW_MASKED_TIME: false 
-          STOP_AT_OTHER: true 
-          IGNORED_LANGUAGES: YAML JSON TOML
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          CODE_LANG: python
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+          STOP_AT_OTHER: false
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: master
