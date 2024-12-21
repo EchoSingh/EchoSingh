@@ -22,12 +22,12 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ->
-          CODE_LANG: python
+          CODE_LANG: text
           TIME_RANGE: last_30_days
-          LANG_COUNT: 5
+          LANG_COUNT: 2
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: true
+          SHOW_MASKED_TIME: false
           STOP_AT_OTHER: false
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
