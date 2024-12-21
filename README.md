@@ -35,13 +35,16 @@
   <h1 align="center" style="color: #1E40AF;">WakaTime Activity</h1>
   <!--START_SECTION:waka-->
 
-```f#
-From: 23 May 2024 - To: 20 December 2024
+```python
+From: 20 November 2024 - To: 20 December 2024
 
-C++                                   >>>>>>>>>----------------   34.87 %
-Python                                >>>>---------------------   16.84 %
-HTML                                  >>-----------------------   09.55 %
-JavaScript                            >>-----------------------   09.48 %
+Total Time: 13 hrs 47 mins
+
+C++                   10 hrs 37 mins  >>>>>>>>>>>>>>>>>>>------   77.02 %
+Python                2 hrs 30 mins   >>>>>--------------------   18.21 %
+Other                 31 mins         >------------------------   03.86 %
+Java                  5 mins          -------------------------   00.66 %
+Sublime Text Config   2 mins          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
