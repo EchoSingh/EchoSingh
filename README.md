@@ -35,7 +35,7 @@
   <h1 align="center" style="color: #1E40AF;">WakaTime Activity</h1>
   <!--START_SECTION:waka-->
 
-```txt
+```c#
 From: 20 November 2024 - To: 20 December 2024
 
 Total Time: 13 hrs 15 mins
