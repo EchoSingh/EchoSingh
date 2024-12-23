@@ -36,13 +36,13 @@
   <!--START_SECTION:waka-->
 
 ```c#
-From: 20 November 2024 - To: 20 December 2024
+From: 22 November 2024 - To: 22 December 2024
 
-Total Time: 13 hrs 15 mins
+Total Time: 20 hrs 7 mins
 
-C++                                   >>>>>>>>>>>>>>>>>>>------   77.02 %
-Python                                >>>>>--------------------   18.21 %
-Other                                 >------------------------   03.86 %
+C++                                   >>>>>>>>>>>>>>>>>>>------   74.12 %
+Python                                >>>----------------------   12.10 %
+Other                                 >>>----------------------   10.54 %
 ```
 
 <!--END_SECTION:waka-->
