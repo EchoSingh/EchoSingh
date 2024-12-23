@@ -13,7 +13,7 @@
   <h4 style="color: #1E3A8A;">
     <a href="https://github.com/EchoSingh" style="color: #1E40AF; text-decoration: none;">GitHub</a>
     <span style="color: #2563EB;"> · </span>
-    <a href="www.linkedin.com/in/adityasinghgdev" style="color: #1E40AF; text-decoration: none;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/adityasinghgdev/" style="color: #1E40AF; text-decoration: none;">LinkedIn</a>
     <span style="color: #2563EB;"> · </span>
     <a href="https://twitter.com/ADITYAS01117542" style="color: #1E40AF; text-decoration: none;">Twitter</a>
     <span style="color: #2563EB;"> · </span>
