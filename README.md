@@ -21,7 +21,7 @@
 </h4>
   
  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EchoSingh&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+  [![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=EchoSingh&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 
