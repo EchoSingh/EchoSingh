@@ -5,9 +5,6 @@
     <a href="https://github.com/EchoSingh/">
       <img src="https://komarev.com/ghpvc/?username=EchoSingh&color=1E40AF&label=Profile+Views" alt="Views Counter" style="margin: 10px;" />
     </a>
-    <a href="https://github.com/EchoSingh/">
-      <img src="https://wakatime.com/badge/user/1b048abc-0515-432a-8342-f8fb218bb013.svg" alt="Total time coded since May 24 2024" alt="Views Counter" style="margin: 10px;" />
-    </a>
     <a href="https://github.com/EchoSingh">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEchoSingh1212%2Fhit-counter&count_bg=%231E40AF&title_bg=%231E3A8A&title=Hits" alt="Hits Counter" style="margin: 10px;" />
     </a>
