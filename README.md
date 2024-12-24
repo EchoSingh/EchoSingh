@@ -27,7 +27,7 @@
 
   <div style="margin: 20px 0;">
     <picture>
-      <img src="github-metrics.svg" alt="Metrics" loading="lazy" title="GitHub Metrics"/>
+      <img src="github-metrics-main.svg" alt="Metrics" loading="lazy" title="GitHub Metrics"/>
     </picture>
   </div>
 
