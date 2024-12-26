@@ -35,7 +35,7 @@
   <h1 align="center" style="color: #1E40AF;">WakaTime Activity</h1>
   <!--START_SECTION:waka-->
 
-```c#
+```python
 From: 23 November 2024 - To: 23 December 2024
 
 Total Time: 23 hrs 37 mins
