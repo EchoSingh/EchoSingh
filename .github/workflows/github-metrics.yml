@@ -44,4 +44,4 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_followup: yes
-          config_order: introduction, base.activity+community, base.repositories, lines, wakatime, topics, achievements, languages, stargazers, followup
+          config_order: introduction, base.activity+community, base.repositories, lines, wakatime, topics, achievements
