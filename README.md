@@ -36,13 +36,13 @@
   <!--START_SECTION:waka-->
 
 ```c#
-From: 29 November 2024 - To: 29 December 2024
+From: 01 December 2024 - To: 31 December 2024
 
-Total Time: 37 hrs 15 mins
+Total Time: 38 hrs 33 mins
 
-C++                                   █████████████▒░░░░░░░░░░░   53.75 %
-Other                                 █████████▓░░░░░░░░░░░░░░░   38.13 %
-Python                                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Other                                 ███████████▓░░░░░░░░░░░░░   46.49 %
+C++                                   ███████████▓░░░░░░░░░░░░░   46.24 %
+Python                                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
