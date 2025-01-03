@@ -22,9 +22,9 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ░▒▓█
-          CODE_LANG: c#
-          TIME_RANGE: last_30_days
-          LANG_COUNT: 3
+          CODE_LANG: python
+          TIME_RANGE: all_time
+          LANG_COUNT: 1
           SHOW_TIME: false
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
