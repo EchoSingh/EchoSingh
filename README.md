@@ -35,14 +35,12 @@
   <h1 align="center" style="color: #1E40AF;">WakaTime Activity</h1>
   <!--START_SECTION:waka-->
 
-```c#
-From: 01 December 2024 - To: 31 December 2024
+```python
+From: 23 May 2024 - To: 02 January 2025
 
-Total Time: 38 hrs 33 mins
+Total Time: 84 hrs 35 mins
 
-Other                                 ███████████▓░░░░░░░░░░░░░   46.49 %
-C++                                   ███████████▓░░░░░░░░░░░░░   46.24 %
-Python                                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+C++                                   █████████▒░░░░░░░░░░░░░░░   36.89 %
 ```
 
 <!--END_SECTION:waka-->
