@@ -33,7 +33,6 @@
     </picture>
   </div>
 </div>
-
   <div>
     <picture>
       <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg" alt="GitHub Metrics" loading="lazy" title="GitHub Metrics" style="margin-top: 20px;"/>
