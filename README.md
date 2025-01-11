@@ -1,6 +1,7 @@
 <div align="center" style="font-family: 'Courier New', Courier, monospace; color: #fff; background-color: #282828; padding: 30px; border-radius: 15px; box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);">
   <h1 style="font-size: 50px; color: #4CAF50; text-shadow: 5px 5px 10px rgba(255, 0, 0, 0.5); letter-spacing: 3px; font-weight: bold;">
     Hi, I'm <a href="https://github.com/EchoSingh" style="color: #4CAF50; text-decoration: none; font-weight: bold; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);">Aditya Singh</a>
+    <img src="https://github.com/EchoSingh/EchoSingh/blob/main/octocat.gif" alt="octocat" width="50" style="margin-top: 20px;" />
   </h1>
 
   <p>
@@ -32,3 +33,12 @@
     </picture>
   </div>
 </div>
+
+  <div>
+    <picture>
+      <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg" alt="GitHub Metrics" loading="lazy" title="GitHub Metrics" style="margin-top: 20px;"/>
+    </picture>
+  </div>
+</div>
+
+
