@@ -85,7 +85,15 @@ jobs:
           plugin_anilist_user: adi2603
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 1
+          plugin_anilist_limit: 2
+
+          #gist created
+          plugin_gists: yes
+
+          #plugin music
+          plugin_music: yes
+          plugin_music_playlist: >-
+            https://www.youtube.com/playlist?list=PLd2ArdZjOMpYqzmDw-LwaDDAzHVEadXF0
 
           # Peoples
           plugin_people: yes
