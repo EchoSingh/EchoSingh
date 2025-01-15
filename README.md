@@ -32,12 +32,14 @@
       <img src="github-metrics-main.svg" alt="GitHub Metrics" loading="lazy" title="GitHub Metrics" style="margin-top: 20px;"/>
     </picture>
   </div>
-</div>
+
+  <h2 style="font-size: 30px; color: #FFD700; text-shadow: 3px 3px 8px rgba(0, 0, 255, 0.5); margin-top: 40px;">
+    Contributions Under Attack: Watch the Python Conquer!
+  </h2>
+
   <div>
     <picture>
-      <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg" alt="GitHub Metrics" loading="lazy" title="GitHub Metrics" style="margin-top: 20px;"/>
+      <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg" alt="GitHub Contribution Snake" loading="lazy" title="GitHub Contribution Snake" style="margin-top: 20px;"/>
     </picture>
   </div>
 </div>
-
-
