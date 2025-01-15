@@ -90,8 +90,8 @@ jobs:
 
           #plugin music
           plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/47xnEdlfxDP52q0XTK0xWi
+          plugin_music_provider: youtube
+          plugin_music_playlist: https://www.youtube.com/playlist?list=PLd2ArdZjOMpYqzmDw-LwaDDAzHVEadXF0
 
           # Peoples
           plugin_people: yes
