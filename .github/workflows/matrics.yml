@@ -93,7 +93,7 @@ jobs:
           #plugin music
           plugin_music: yes
           plugin_music_playlist: >-
-            https://www.youtube.com/playlist?list=PLd2ArdZjOMpYqzmDw-LwaDDAzHVEadXF0
+            https://music.youtube.com/playlist?list=PLd2ArdZjOMpYqzmDw-LwaDDAzHVEadXF0
 
           # Peoples
           plugin_people: yes
