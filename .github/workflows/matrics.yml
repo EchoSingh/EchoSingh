@@ -98,9 +98,9 @@ jobs:
           plugin_people_types: followers
 
           #leetcode
-          plugin_leetcode_user: adityarathore2606
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          #plugin_leetcode_user: adityarathore2606
+          #plugin_leetcode: yes
+          #plugin_leetcode_sections: solved, skills, recent
 
           #rss
           plugin_rss: yes
