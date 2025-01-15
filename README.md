@@ -3,7 +3,7 @@
      <img src="https://i.redd.it/tsy10hp4ukq21.gif" alt="ferris dancing" width="50" style="margin-top: 60px;" />
     Hi, I'm <a href="https://github.com/EchoSingh" style="color: #4CAF50; text-decoration: none; font-weight: bold; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);">Aditya Singh</a>
     <img src="https://github.com/EchoSingh/EchoSingh/blob/main/octocat.gif" alt="octocat" width="50" style="margin-top: 60px;" />
-  </h1>
+  </h1> 
 
   <p>
     <a href="https://github.com/EchoSingh/">
