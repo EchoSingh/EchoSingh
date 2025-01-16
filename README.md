@@ -14,13 +14,11 @@
     </a>
   </p>
 
-  <h4 style="color: #1E40AF; font-size: 18px; margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/adityasinghgdev/" style="color: #1E40AF; text-decoration: none; font-weight: bold; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);">LinkedIn</a>
-    <span style="color: #2563EB;"> · </span>
-    <a href="https://twitter.com/ADITYAS01117542" style="color: #1E40AF; text-decoration: none; font-weight: bold; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);">Twitter</a>
-    <span style="color: #2563EB;"> · </span>
-    <a href="https://huggingface.co/adi2606" style="color: #1E40AF; text-decoration: none; font-weight: bold; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);">Hugging Face</a>
-  </h4>
+<h4 style="color: #1E40AF; font-size: 18px; margin-top: 20px;">
+  <a href="https://linktr.ee/Aditya.Singh.R" style="color: #1E40AF; text-decoration: none; font-weight: bold; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);">
+    Connect
+  </a>
+</h4>
 
   <div>
     <a href="https://git.io/streak-stats">
