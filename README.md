@@ -2,11 +2,10 @@
 
 ![Static Badge](https://img.shields.io/badge/Created_By-Aditya_Singh-violet?style=plastic&logo=GitHub&link=https%3A%2F%2Fgithub.com%2FEchoSingh)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/EchoSingh/EchoSingh/.github%2Fworkflows%2Fmatrics.yml?branch=main&style=plastic&logo=GitHub%20Actions&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Factions)
-![GitHub branch status](https://img.shields.io/github/checks-status/EchoSingh/EchoSingh/main?style=plastic&logo=Github&logoColor=White)
 ![GitHub contributors](https://img.shields.io/github/contributors/EchoSingh/EchoSingh?style=plastic&logo=Github&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fgraphs%2Fcontributors)
 ![GitHub License](https://img.shields.io/github/license/EchoSingh/EchoSingh?style=plastic&logo=Github&logoColor=white&color=blue&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fblob%2Fmain%2FLICENSE)
 ![GitHub Created At](https://img.shields.io/github/created-at/EchoSingh/EchoSingh?style=plastic&logo=Github&logoColor=White&labelColor=Black)
-
+![Profile Views](https://komarev.com/ghpvc/?username=EchoSingh&abbreviated=true&base=1000&style=plastic&color=blueviolet)
 
 
 
