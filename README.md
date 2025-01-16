@@ -34,9 +34,7 @@
     </picture>
   </div>
 
-  <h2 style="font-size: 30px; color: #FFD700; text-shadow: 3px 3px 8px rgba(0, 0, 255, 0.5); margin-top: 40px;">
-    Contributions Under Attack: Watch the Python Conquer!
-  </h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Contributions+Under+Attack%3A+" alt="Typing SVG" /></a>
 
   <div>
     <picture>
