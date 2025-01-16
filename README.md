@@ -1,16 +1,21 @@
+ <!-- Profile Stats -->
+
+![Static Badge](https://img.shields.io/badge/Created_By-Aditya_Singh-violet?style=plastic&logo=GitHub&link=https%3A%2F%2Fgithub.com%2FEchoSingh)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/EchoSingh/EchoSingh/.github%2Fworkflows%2Fmatrics.yml?branch=main&style=plastic&logo=GitHub%20Actions&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Factions)
+![GitHub branch status](https://img.shields.io/github/checks-status/EchoSingh/EchoSingh/main?style=plastic&logo=Github&logoColor=White)
+![GitHub contributors](https://img.shields.io/github/contributors/EchoSingh/EchoSingh?style=plastic&logo=Github&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fgraphs%2Fcontributors)
+![GitHub License](https://img.shields.io/github/license/EchoSingh/EchoSingh?style=plastic&logo=Github&logoColor=white&color=blue&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fblob%2Fmain%2FLICENSE)
+![GitHub Created At](https://img.shields.io/github/created-at/EchoSingh/EchoSingh?style=plastic&logo=Github&logoColor=White&labelColor=Black)
+
+
+
+
 <div align="center" style="font-family: 'Courier New', Courier, monospace; color: #fff; background-color: #282828; padding: 30px; border-radius: 15px; box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);">
   <h1 style="font-size: 50px; color: #4CAF50; text-shadow: 5px 5px 10px rgba(255, 0, 0, 0.5); letter-spacing: 3px; font-weight: bold;">
     <img src="https://i.redd.it/tsy10hp4ukq21.gif" alt="ferris dancing" width="50" style="margin-top: 60px;" />
     Hi, I'm <a href="https://github.com/EchoSingh" style="color: #4CAF50; text-decoration: none; font-weight: bold; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);">Aditya Singh</a>
     <img src="https://github.com/EchoSingh/EchoSingh/blob/main/octocat.gif" alt="octocat" width="50" style="margin-top: 60px;" />
   </h1>
-
-  <!-- Profile Stats -->
-  
-  [![GitHub Profile Views](https://komarev.com/ghpvc/?username=EchoSingh&color=1E40AF&label=Profile+Views)](https://github.com/EchoSingh)
-  [![GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEchoSingh&count_bg=%231E40AF&title_bg=%231E3A8A&title=Hits)](https://github.com/EchoSingh)
-  [![GitHub followers](https://img.shields.io/github/followers/EchoSingh?logo=github&style=plastic)](https://github.com/EchoSingh?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/EchoSingh?logo=github&style=plastic)](https://github.com/EchoSingh?tab=stars)
   
 
   <!-- Connect Section -->
