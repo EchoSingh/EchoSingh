@@ -47,7 +47,13 @@ jobs:
           #plugin_pagespeed_url: "your_site_url"
 
           # Plugin:Notable
-          plugin_notable: yes
+          #plugin_notable: yes
+
+          # Plugin: habits
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Asia/Kolkata
 
           # Plugin: WakaTime
           plugin_wakatime: yes
@@ -134,7 +140,7 @@ jobs:
             base.header,
             base.activity+community,
             base.repositories,
-            notable,
+            habits,
             achievements,
             lines,
             wakatime,
