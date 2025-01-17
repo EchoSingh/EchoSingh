@@ -33,8 +33,8 @@ jobs:
 
           # Plugin: Personality
           plugin_16personalities: yes
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_url: https://www.16personalities.com/profiles/7fd4a3833c7be
+          plugin_16personalities_sections: personality, profile, traits
           plugin_16personalities_scores: no
 
           # Plugin: Lines
