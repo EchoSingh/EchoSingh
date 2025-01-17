@@ -46,6 +46,9 @@ jobs:
           #plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           #plugin_pagespeed_url: "your_site_url"
 
+          # Plugin:Notable
+          plugin_notable: yes
+
           # Plugin: WakaTime
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, editors, os
@@ -129,9 +132,9 @@ jobs:
             introduction,
             fortune,
             base.header,
-            pagespeed,
             base.activity+community,
             base.repositories,
+            notable,
             achievements,
             lines,
             wakatime,
