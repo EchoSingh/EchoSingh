@@ -41,10 +41,10 @@ jobs:
           plugin_lines_history_limit: 2
 
           # Plugin: PageSpeed
-          plugin_pagespeed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://port-folio-zeta-two.vercel.app
+          #plugin_pagespeed: yes
+          #plugin_pagespeed_screenshot: yes
+          #plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          #plugin_pagespeed_url: "your_site_url"
 
           # Plugin: WakaTime
           plugin_wakatime: yes
