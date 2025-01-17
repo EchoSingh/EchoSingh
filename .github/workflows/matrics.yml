@@ -21,6 +21,7 @@ jobs:
           filename: github-metrics-${{ github.ref_name }}.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          template: "@terminal"
           committer_message: "👾👾👾👾"
 
           # Base configuration
@@ -30,11 +31,6 @@ jobs:
 
           # Plugin: Intro
           plugin_introduction: yes
-
-          # Plugin: Personality
-          plugin_16personalities: yes
-          plugin_16personalities_url: https://www.16personalities.com/profiles/7fd4a3833c7be
-          plugin_16personalities_sections: personality
 
           # Plugin: Lines
           plugin_lines: yes
@@ -106,8 +102,6 @@ jobs:
           #plugin_leetcode_user: adityarathore2606
           #plugin_leetcode: yes
           #plugin_leetcode_sections: solved, skills, recent
-          
-          plugin_gists_user: EchoSingh
           plugin_gists: yes
 
           #rss
@@ -125,7 +119,6 @@ jobs:
           # Configuration order
           config_order: |
             introduction,
-            16personalities,
             base.header,
             base.activity+community,
             base.repositories,
