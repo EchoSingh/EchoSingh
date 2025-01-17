@@ -31,6 +31,12 @@ jobs:
           # Plugin: Intro
           plugin_introduction: yes
 
+          # Plugin: Personality
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: no
+
           # Plugin: Lines
           plugin_lines: yes
           plugin_lines_sections: base
@@ -120,6 +126,7 @@ jobs:
           # Configuration order
           config_order: |
             introduction,
+            16personalities,
             base.header,
             base.activity+community,
             base.repositories,
