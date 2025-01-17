@@ -1,4 +1,4 @@
- <!-- Initial Section -->
+<!-- Initial Section -->
 <div align="center" style="font-family: 'Courier New', Courier, monospace; color: #fff; background-color: #282828; padding: 30px; border-radius: 15px; box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);">
   <h1 style="font-size: 50px; color: #4CAF50; text-shadow: 5px 5px 10px rgba(255, 0, 0, 0.5); letter-spacing: 3px; font-weight: bold;">
     <img src="https://i.redd.it/tsy10hp4ukq21.gif" alt="ferris dancing" width="50" style="margin-top: 60px;" />
@@ -22,13 +22,9 @@
   </div>
 
   <!-- GitHub Metrics -->
-  <div>
-    <picture>
-        <details open>
-            <img src="github-metrics-main.svg" alt="GitHub Metrics" loading="lazy" title="GitHub Metrics" style="margin-top: 20px;" />
-        </details>
-    </picture>
-</div>
+  <div style="margin-top: 20px;">
+    <img src="github-metrics-main.svg" alt="GitHub Metrics" loading="lazy" title="GitHub Metrics" />
+  </div>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -36,32 +32,26 @@
   </a>
   
   <!-- GitHub Contribution Snake -->
-<table>
-  <tr>
-    <td style="border: 50px solid #5DE2E7; border-radius: 50px; padding: 50px;">
-     <details open>
-      <picture>
-        <img 
-          src="https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg" 
-          alt="GitHub Contribution Snake" 
-          loading="lazy" 
-          title="GitHub Contribution Snake" />
-      </picture>
-     </details>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td style="border: 50px solid #5DE2E7; border-radius: 50px; padding: 50px;">
+        <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg" alt="GitHub Contribution Snake" loading="lazy" title="GitHub Contribution Snake" />
+      </td>
+    </tr>
+  </table>
 </div>
 
- <!-- Profile Stats -->
+<!-- Profile Stats -->
 <details open>
-    <summary>Badges and Profile Views</summary>
+  <summary style="cursor: pointer; font-size: 18px; font-weight: bold; color: #4CAF50;">
+    Badges and Profile Views
+  </summary>
+  <div style="margin-top: 10px;">
     <img src="https://img.shields.io/badge/Created_By-Aditya_Singh-blue?style=plastic&logo=GitHub&link=https%3A%2F%2Fgithub.com%2FEchoSingh" alt="Created By Aditya Singh Badge">
     <img src="https://img.shields.io/github/actions/workflow/status/EchoSingh/EchoSingh/.github%2Fworkflows%2Fmatrics.yml?branch=main&style=plastic&color=blue&logo=GitHub%20Actions&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Factions" alt="GitHub Actions Workflow Status">
     <img src="https://img.shields.io/github/contributors/EchoSingh/EchoSingh?style=plastic&color=blue&logo=Github&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fgraphs%2Fcontributors" alt="GitHub Contributors">
     <img src="https://img.shields.io/github/license/EchoSingh/EchoSingh?style=plastic&color=blue&logo=Github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fblob%2Fmain%2FLICENSE" alt="GitHub License">
     <img src="https://img.shields.io/github/created-at/EchoSingh/EchoSingh?style=plastic&color=blue&logo=Github&logoColor=White&labelColor=Black" alt="GitHub Created At">
     <img src="https://komarev.com/ghpvc/?username=EchoSingh&abbreviated=true&base=1000&style=plastic&color=blue" alt="Profile Views">
+  </div>
 </details>
-
-  <!-- Do Star My Readme (*^‿^*) -->
