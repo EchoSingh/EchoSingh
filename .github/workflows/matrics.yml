@@ -129,6 +129,7 @@ jobs:
             introduction,
             fortune,
             base.header,
+            pagespeed,
             base.activity+community,
             base.repositories,
             achievements,
