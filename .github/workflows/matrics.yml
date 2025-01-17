@@ -119,14 +119,18 @@ jobs:
 
           # Configuration order
           config_order: |
-            introduction,
-            base.activity+community,
-            base.repositories,
-            lines,
-            wakatime,
-            achievements,
-            stargazers,
-            anilist,
+            introduction,                             # A brief introduction of your profile
+            base.header,                              # Header with username, commits, and basic stats
+            base.activity+community,                  # Combine recent activity and community stats
+            base.repositories+stars,                  # Highlight repositories with star statistics
+            achievements+lines,                       # Combine achievements with lines of code stats
+            wakatime+isocalendar,                     # Productivity insights and activity calendar
+            stargazers+topics,                        # Showcase stargazers and repository topics
+            gists+rss,                                # Personal gists and curated RSS feeds
+            anilist+music,                            # Interests: Anime and music playlist
+            reactions+people,                         # Engagement: Reactions and followers
+            chess+screenshot                          # Hobbies: Chess performance and fun screenshot
+
             calendar,
             stars,
             people
