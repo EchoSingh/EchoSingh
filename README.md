@@ -30,15 +30,23 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Contributions+Under+Attack%3A+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Devnagiri&pause=1000&width=435&lines=%E0%A4%8F%E0%A4%B7%E0%A4%83+%E0%A4%AD%E0%A5%81%E0%A4%9C%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%83+%E0%A4%AE%E0%A4%AE+%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%A6%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BF+%E0%A4%AD%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AF%E0%A4%A8%E0%A5%8D+%7C" alt="Typing SVG" />
   </a>
   
   <!-- GitHub Contribution Snake -->
-  <div>
-    <picture>
-      <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg" alt="GitHub Contribution Snake" loading="lazy" title="GitHub Contribution Snake" style="margin-top: 20px;" />
-    </picture>
-  </div>
+<table>
+  <tr>
+    <td style="border: 50px solid #5DE2E7; border-radius: 50px; padding: 50px;">
+      <picture>
+        <img 
+          src="https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg" 
+          alt="GitHub Contribution Snake" 
+          loading="lazy" 
+          title="GitHub Contribution Snake" />
+      </picture>
+    </td>
+  </tr>
+</table>
 </div>
 
  <!-- Profile Stats -->
