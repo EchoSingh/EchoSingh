@@ -21,7 +21,6 @@ jobs:
           filename: github-metrics-${{ github.ref_name }}.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          template: "@terminal"
           committer_message: "👾👾👾👾"
 
           # Base configuration
@@ -32,11 +31,20 @@ jobs:
           # Plugin: Intro
           plugin_introduction: yes
 
+          # Plugin: Fortune
+          plugin_fortune: yes
+
           # Plugin: Lines
           plugin_lines: yes
           plugin_lines_sections: base
           plugin_lines_repositories_limit: 5
           plugin_lines_history_limit: 2
+
+          # Plugin: PageSpeed
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://port-folio-zeta-two.vercel.app
 
           # Plugin: WakaTime
           plugin_wakatime: yes
@@ -119,6 +127,7 @@ jobs:
           # Configuration order
           config_order: |
             introduction,
+            fortune,
             base.header,
             base.activity+community,
             base.repositories,
