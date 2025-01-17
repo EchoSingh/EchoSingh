@@ -42,7 +42,7 @@
 </div>
 
 <!-- Profile Stats -->
-<details open>
+<details close>
   <summary style="cursor: pointer; font-size: 18px; font-weight: bold; color: #4CAF50;">
     Badges and Profile Views
   </summary>
