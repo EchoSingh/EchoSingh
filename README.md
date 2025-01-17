@@ -1,5 +1,4 @@
  <!-- Profile Stats -->
-
 ![Static Badge](https://img.shields.io/badge/Created_By-Aditya_Singh-blue?style=plastic&logo=GitHub&link=https%3A%2F%2Fgithub.com%2FEchoSingh)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/EchoSingh/EchoSingh/.github%2Fworkflows%2Fmatrics.yml?branch=main&style=plastic&color=blue&logo=GitHub%20Actions&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Factions)
 ![GitHub contributors](https://img.shields.io/github/contributors/EchoSingh/EchoSingh?style=plasti&color=blue&logo=Github&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fgraphs%2Fcontributors)
@@ -8,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=EchoSingh&abbreviated=true&base=1000&style=plastic&color=blue)
 
 
-
+ <!-- Initial Section -->
 <div align="center" style="font-family: 'Courier New', Courier, monospace; color: #fff; background-color: #282828; padding: 30px; border-radius: 15px; box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);">
   <h1 style="font-size: 50px; color: #4CAF50; text-shadow: 5px 5px 10px rgba(255, 0, 0, 0.5); letter-spacing: 3px; font-weight: bold;">
     <img src="https://i.redd.it/tsy10hp4ukq21.gif" alt="ferris dancing" width="50" style="margin-top: 60px;" />
@@ -42,7 +41,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Contributions+Under+Attack%3A+" alt="Typing SVG" />
   </a>
-
+  
   <!-- GitHub Contribution Snake -->
   <div>
     <picture>
@@ -50,3 +49,4 @@
     </picture>
   </div>
 </div>
+  <!-- Do Star My Readme (*^‿^*) -->
