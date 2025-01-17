@@ -24,9 +24,11 @@
   <!-- GitHub Metrics -->
   <div>
     <picture>
-      <img src="github-metrics-main.svg" alt="GitHub Metrics" loading="lazy" title="GitHub Metrics" style="margin-top: 20px;" />
+        <details open>
+            <img src="github-metrics-main.svg" alt="GitHub Metrics" loading="lazy" title="GitHub Metrics" style="margin-top: 20px;" />
+        </details>
     </picture>
-  </div>
+</div>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -37,6 +39,7 @@
 <table>
   <tr>
     <td style="border: 50px solid #5DE2E7; border-radius: 50px; padding: 50px;">
+     <details open>
       <picture>
         <img 
           src="https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg" 
@@ -44,16 +47,21 @@
           loading="lazy" 
           title="GitHub Contribution Snake" />
       </picture>
+     </details>
     </td>
   </tr>
 </table>
 </div>
 
  <!-- Profile Stats -->
-![Static Badge](https://img.shields.io/badge/Created_By-Aditya_Singh-blue?style=plastic&logo=GitHub&link=https%3A%2F%2Fgithub.com%2FEchoSingh)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/EchoSingh/EchoSingh/.github%2Fworkflows%2Fmatrics.yml?branch=main&style=plastic&color=blue&logo=GitHub%20Actions&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Factions)
-![GitHub contributors](https://img.shields.io/github/contributors/EchoSingh/EchoSingh?style=plastic&color=blue&logo=Github&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fgraphs%2Fcontributors)
-![GitHub License](https://img.shields.io/github/license/EchoSingh/EchoSingh?style=plastic&color=blue&logo=Github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fblob%2Fmain%2FLICENSE)
-![GitHub Created At](https://img.shields.io/github/created-at/EchoSingh/EchoSingh?style=plastic&color=blue&logo=Github&logoColor=White&labelColor=Black)
-![Profile Views](https://komarev.com/ghpvc/?username=EchoSingh&abbreviated=true&base=1000&style=plastic&color=blue)
+<details open>
+    <summary>Badges and Profile Views</summary>
+    <img src="https://img.shields.io/badge/Created_By-Aditya_Singh-blue?style=plastic&logo=GitHub&link=https%3A%2F%2Fgithub.com%2FEchoSingh" alt="Created By Aditya Singh Badge">
+    <img src="https://img.shields.io/github/actions/workflow/status/EchoSingh/EchoSingh/.github%2Fworkflows%2Fmatrics.yml?branch=main&style=plastic&color=blue&logo=GitHub%20Actions&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Factions" alt="GitHub Actions Workflow Status">
+    <img src="https://img.shields.io/github/contributors/EchoSingh/EchoSingh?style=plastic&color=blue&logo=Github&logoColor=White&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fgraphs%2Fcontributors" alt="GitHub Contributors">
+    <img src="https://img.shields.io/github/license/EchoSingh/EchoSingh?style=plastic&color=blue&logo=Github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FEchoSingh%2FEchoSingh%2Fblob%2Fmain%2FLICENSE" alt="GitHub License">
+    <img src="https://img.shields.io/github/created-at/EchoSingh/EchoSingh?style=plastic&color=blue&logo=Github&logoColor=White&labelColor=Black" alt="GitHub Created At">
+    <img src="https://komarev.com/ghpvc/?username=EchoSingh&abbreviated=true&base=1000&style=plastic&color=blue" alt="Profile Views">
+</details>
+
   <!-- Do Star My Readme (*^‿^*) -->
