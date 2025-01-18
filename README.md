@@ -10,7 +10,7 @@
 
   <!-- GitHub Streak Stats -->
   
-  [![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=EchoSingh&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  ![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=EchoSingh&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
   <!-- GitHub Metrics -->
   
@@ -18,7 +18,7 @@
 
   <!-- Typing Animation -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!)
 
   <!-- GitHub Contribution Snake -->
   
