@@ -1,18 +1,21 @@
 <!-- Initial Section -->
-<div align="center" style="font-family: 'Courier New', Courier, monospace; color: #fff; background-color: #282828; padding: 30px; border-radius: 15px; box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);">
-  <h1 style="font-size: 50px; color: #4CAF50; text-shadow: 5px 5px 10px rgba(255, 0, 0, 0.5); letter-spacing: 3px; font-weight: bold;">
-    <img src="https://i.redd.it/tsy10hp4ukq21.gif" alt="ferris dancing" width="50" style="margin-top: 60px;" />
-    Hi, I'm <a href="https://github.com/EchoSingh" style="color: #4CAF50; text-decoration: none; font-weight: bold; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);">Aditya Singh</a>
-    <img src="https://github.com/EchoSingh/EchoSingh/blob/main/octocat.gif" alt="octocat" width="50" style="margin-top: 60px;" />
+<div align="center">
+  <h1>
+    <img src="https://i.redd.it/tsy10hp4ukq21.gif" alt="ferris dancing" width="50" />
+    Hi, I'm
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Aditya+Singh" alt="Typing SVG" />
+    <img src="octocat.gif" alt="octocat" width="50" />
   </h1>
-  
+</div>
 
-  <!-- Connect Section -->
-  <h4 style="color: #1E40AF; font-size: 18px; margin-top: 20px;">
-    <a href="https://linktr.ee/Aditya.Singh.R" style="color: #1E40AF; text-decoration: none; font-weight: bold; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);">
+<!-- Connect Section -->
+<div align="center">
+  <h4>
+    <a href="https://linktr.ee/Aditya.Singh.R" style="color: #36BCF7FF; text-decoration: none; font-weight: bold;">
       Connect
     </a>
   </h4>
+</div>
 
   <!-- GitHub Streak Stats -->
   <div>
@@ -28,22 +31,21 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Devnagiri&pause=1000&width=435&lines=%E0%A4%8F%E0%A4%B7%E0%A4%83+%E0%A4%AD%E0%A5%81%E0%A4%9C%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%83+%E0%A4%AE%E0%A4%AE+%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%A6%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BF+%E0%A4%AD%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AF%E0%A4%A8%E0%A5%8D+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Contributions+under+Attack+!!" alt="Typing SVG" />
   </a>
   
   <!-- GitHub Contribution Snake -->
   <table>
     <tr>
-      <td style="border: 50px solid #5DE2E7; border-radius: 50px; padding: 50px;">
+      <td>
         <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg" alt="GitHub Contribution Snake" loading="lazy" title="GitHub Contribution Snake" />
       </td>
     </tr>
   </table>
-</div>
 
 <!-- Profile Stats -->
 <details close>
-  <summary style="cursor: pointer; font-size: 18px; font-weight: bold; color: #4CAF50;">
+  <summary>
     Badges and Profile Views
   </summary>
   <div style="margin-top: 10px;">
