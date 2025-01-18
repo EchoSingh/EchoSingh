@@ -116,9 +116,9 @@ jobs:
           plugin_people_types: followers
 
           #leetcode
-          #plugin_leetcode_user: adityarathore2606
-          #plugin_leetcode: yes
-          #plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_user: adityarathore2606
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
           plugin_gists: yes
 
           #rss
@@ -141,6 +141,7 @@ jobs:
             base.activity+community,
             base.repositories,
             habits,
+            leetcode,
             achievements,
             lines,
             wakatime,
