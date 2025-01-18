@@ -100,11 +100,10 @@ jobs:
           # Hobbies
           # Anime 
           plugin_anilist: yes
-          plugin_anilist_user: adi2603
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 2
-
+          plugin_anilist_medias: anime,manga
+          plugin_anilist_sections: favorites,watching,reading,characters
+          plugin_anilist_limit: 1
+          plugin_anilist_limit_characters: 10
 
           #plugin music
           plugin_music: yes
