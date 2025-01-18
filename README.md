@@ -1,4 +1,5 @@
 <div align="center">
+  <img align="right" width="150" alt="🤡" src="https://moe-counter.glitch.me/get/@long18?theme=EchoSingh">
   <!-- Initial Section -->
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=5000&pause=1000&center=true&repeat=true&width=435&lines=Hi%2C+I'm+Aditya+Singh)](https://github.com/EchoSingh) 
@@ -16,12 +17,32 @@
   
   ![GitHub Metrics](github-metrics-main.svg)
 
-  <!-- Typing Animation -->
+  <!-- Stack Overflow and Discord -->
+
+  #
   
+ ### 🦑 Stack Overflow and Discord
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=23373756&theme=dark" height="205"> <img src="https://lanyard.cnrad.dev/api/1305957634700083212?bg=FFFFFF00&animated=true&idleMessage=Well%2C%20the%20world%20sucks%2C%20but%20the%20engineering%20world%20is%20nice&borderRadius=30px"> 
+
+  #
+
+  <!-- Typing Animation -->
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!)
 
   <!-- GitHub Contribution Snake -->
   
   ![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake-cool.svg)
-  
+
+
+  <p align="center">
+	<img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" />
+</p>
+<p align="center">
+	Copyright &copy; 2023-present <a href="https://github.com/EchoSingh" target="_blank">Aditya Singh</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/EchoSingh/EchoSingh/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>
 </div>
+
