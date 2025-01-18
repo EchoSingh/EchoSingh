@@ -99,6 +99,7 @@ jobs:
 
           # Hobbies
           # Anime 
+          plugin_anilist_user: adi2603
           plugin_anilist: yes
           plugin_anilist_medias: anime,manga
           plugin_anilist_sections: favorites,watching,reading,characters
