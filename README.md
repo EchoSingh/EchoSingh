@@ -22,6 +22,6 @@
 
   <!-- GitHub Contribution Snake -->
   
-  ![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake2.svg)
+  ![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake-cool.svg)
   
 </div>
