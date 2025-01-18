@@ -84,6 +84,9 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
 
+          #Plugin Discussion
+          plugin_discussions: yes
+
           
           #website quote
           plugin_screenshot: yes
@@ -144,6 +147,7 @@ jobs:
             achievements,
             lines,
             wakatime,
+            discussions,
             stars,
             isocalendar,
             topics,
