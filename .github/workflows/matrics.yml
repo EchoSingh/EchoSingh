@@ -68,8 +68,8 @@ jobs:
           
 
           # Plugin: Stargazers
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
+          #plugin_stargazers: yes
+          #plugin_stargazers_charts: yes
 
           # Plugin: Isocalender
           plugin_isocalendar: yes
@@ -116,10 +116,10 @@ jobs:
           plugin_people_types: followers
 
           #leetcode
-          plugin_leetcode_user: adityarathore2606
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
-          plugin_gists: yes
+          #plugin_leetcode_user: adityarathore2606
+          #plugin_leetcode: yes
+          #plugin_leetcode_sections: solved, skills, recent
+          #plugin_gists: yes
 
           #rss
           plugin_rss: yes
@@ -140,20 +140,15 @@ jobs:
             base.header,
             base.activity+community,
             base.repositories,
-            habits,
-            leetcode,
+            habit,
             achievements,
             lines,
             wakatime,
             stars,
-            stargazers,
             isocalendar,
             topics,
-            gists,
             rss,
-            screenshot,
             reactions,
             people,
-            anilist,
-            chess,
-            music
+            anilist+music,
+            chess+screenshot,
