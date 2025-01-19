@@ -24,7 +24,7 @@ jobs:
           committer_message: "^_^"
 
           # Base configuration
-          base: activity, community, repositories, header
+          base: header
           base_indepth: no
           base_hireable: no
 
@@ -105,9 +105,9 @@ jobs:
           plugin_anilist_user: adi2603
           plugin_anilist: yes
           plugin_anilist_medias: anime,manga
-          plugin_anilist_sections: favorites,watching,reading,characters
+          plugin_anilist_sections: favorites
           plugin_anilist_limit: 1
-          plugin_anilist_limit_characters: 10
+          #plugin_anilist_limit_characters: 10
 
           # Peoples
           #plugin_people: yes
