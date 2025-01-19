@@ -26,7 +26,7 @@
       <!-- Right Side: GitHub Metrics -->
       <td align="center" width="50%">
         <h3>GitHub Metrics</h3>
-        <img src="" alt="GitHub Metrics">
+        <img src="github-metrics-main.svg" alt="GitHub Metrics">
       </td>
     </tr>
   </table>
