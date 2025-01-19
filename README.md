@@ -1,6 +1,5 @@
 
   <!-- Initial Section -->
-  <!-- <img align="right" width="150" src="https://count.getloli.com/@EchoSingh?name=EchoSingh&theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=0"> -->
 <div align="center">
 	
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=5000&pause=1000&center=true&repeat=true&width=435&lines=Hi%2C+I'm+Aditya+Singh)](https://github.com/EchoSingh) 
