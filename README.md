@@ -18,10 +18,12 @@
     <tr>
       <!-- left Side: Discord and Stack Overflow -->
       <td align="center" width="50%">
-        <h3>Discord</h3>
+        <h4>Discord</h4>
         <img src="https://lanyard.kyrie25.dev/api/1305957634700083212" alt="Discord Status">
-        <h3>Stack Overflow</h3>
-        <img src="https://github-readme-stackoverflow.vercel.app/?userID=23373756&theme=dark" height="205" alt="Stack Overflow Stats">
+        <h4>Holopin badges</h4>
+        <img src="https://holopin.me/adi_s" height="200" alt="Holopin badges">
+        <h4>Stack Overflow</h4>
+        <img src="https://github-readme-stackoverflow.vercel.app/?userID=23373756&theme=dark" height="200" alt="Stack Overflow">
       </td>
       <!-- Right Side: GitHub Metrics -->
       <td align="center" width="50%">
@@ -32,7 +34,6 @@
   </table>
 
 </div>
-
 <!-- Bottom Section -->
 <div align="center">
   
