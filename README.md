@@ -10,13 +10,16 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&center=true&repeat=false&width=435&lines=Connect)](https://linktr.ee/Aditya.Singh.R)
   
 </div>
-
-<!-- Main Content Section -->
 <div align="center">
+ <img src="https://lanyard.kyrie25.dev/api/1305957634700083212?bg=00000000" alt="Discord Status">
+</div>
+
+
+ <!-- Main Content Section -->
+<!-- <div align="center">
 
   <table>
     <tr>
-      <!-- left Side: Discord and Stack Overflow -->
       <td align="center" width="50%">
         <h4>Discord</h4>
         <img src="https://lanyard.kyrie25.dev/api/1305957634700083212" alt="Discord Status">
@@ -25,15 +28,13 @@
         <h4>Stack Overflow</h4>
         <img src="https://github-readme-stackoverflow.vercel.app/?userID=23373756&theme=dark" height="200" alt="Stack Overflow">
       </td>
-      <!-- Right Side: GitHub Metrics -->
       <td align="center" width="50%">
         <h3>GitHub Metrics</h3>
         <img src="github-metrics-main.svg" alt="GitHub Metrics">
       </td>
     </tr>
-  </table>
 
-</div>
+#
 <!-- Bottom Section -->
 <div align="center">
   
