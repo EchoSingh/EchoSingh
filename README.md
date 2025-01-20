@@ -11,7 +11,7 @@
   
 </div>
 <div align="center">
- <img src="https://lanyard.kyrie25.dev/api/1305957634700083212?bg=00000000" alt="Discord Status">
+ <img src="https://lanyard.kyrie25.dev/api/1305957634700083212?useDisplayName=true&bg=00000000&waveColor=36BCF7&waveSpotifyColor=36BCF7" alt="Discord Status">
 </div>
 
 
@@ -36,6 +36,8 @@
 
 #
 <!-- Bottom Section -->
+
+#
 <div align="center">
   
   <!-- Typing Animation -->
