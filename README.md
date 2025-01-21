@@ -15,7 +15,11 @@
 </div>
 
 
+<div align="center">
+<img src="github-metrics-main.svg" alt="GitHub Metrics">
+</div>
  <!-- Main Content Section -->
+ 
 <!-- <div align="center">
 
   <table>
