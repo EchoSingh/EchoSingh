@@ -93,13 +93,7 @@ jobs:
           plugin_screenshot_title: XKCD of the day
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: "#comic img"
-
-          #plugin reaction
-          plugin_reactions: yes
-          plugin_reactions_limit: 3
-          plugin_reactions_details: percentage
-
-
+          
           # Hobbies
           # Anime 
           plugin_anilist_user: adi2603
