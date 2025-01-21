@@ -61,43 +61,43 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
           # Plugin: Achievements
-          #plugin_achievements: yes
-          #plugin_achievements_threshold: C
-          #plugin_achievements_only: developer, forker, stargazer, deployer
-          #plugin_achievements_display: compact
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_only: developer, forker, stargazer, deployer
+          plugin_achievements_display: compact
           
 
           # Plugin: Stargazers
-          #plugin_stargazers: yes
-          #plugin_stargazers_charts: yes
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
 
           # Plugin: Isocalender
-          #plugin_isocalendar: yes
+          plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
           # Plugin: Stars
-          #plugin_stars: yes
+          plugin_stars: yes
           plugin_stars_limit: 1
 
           #Plugin topics
-          #plugin_topics: yes
+          plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
 
           #Plugin Discussion
-          #plugin_discussions: yes
+          plugin_discussions: yes
 
           
           #website quote
-          #plugin_screenshot: yes
-          #plugin_screenshot_title: XKCD of the day
-          #plugin_screenshot_url: https://xkcd.com
-          #plugin_screenshot_selector: "#comic img"
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day
+          plugin_screenshot_url: https://xkcd.com
+          plugin_screenshot_selector: "#comic img"
 
           #plugin reaction
-          #plugin_reactions: yes
-          #plugin_reactions_limit: 100
-          #plugin_reactions_details: percentage
+          plugin_reactions: yes
+          plugin_reactions_limit: 3
+          plugin_reactions_details: percentage
 
 
           # Hobbies
@@ -107,11 +107,11 @@ jobs:
           plugin_anilist_medias: anime,manga
           plugin_anilist_sections: favorites
           plugin_anilist_limit: 1
-          #plugin_anilist_limit_characters: 10
+          plugin_anilist_limit_characters: 10
 
           # Peoples
-          #plugin_people: yes
-          #plugin_people_types: followers
+          plugin_people: yes
+          plugin_people_types: followers
 
           #leetcode
           #plugin_leetcode_user: adityarathore2606
@@ -120,15 +120,15 @@ jobs:
           #plugin_gists: yes
 
           #rss
-          #plugin_rss: yes
-          #plugin_rss_source: https://news.ycombinator.com/rss
-          #plugin_rss_limit: 4
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
 
           #chess
-          #plugin_chess: yes
-          #plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-          #plugin_chess_platform: lichess.org
-          #plugin_chess_user: Rathore26
+          plugin_chess: yes
+          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
+          plugin_chess_platform: lichess.org
+          plugin_chess_user: Rathore26
           
 
           # Configuration order
