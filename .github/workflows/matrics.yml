@@ -32,7 +32,7 @@ jobs:
           plugin_introduction: yes
 
           # Plugin: Fortune
-          plugin_fortune: yes
+          #plugin_fortune: yes
 
           # Plugin: Lines
           plugin_lines: yes
@@ -128,7 +128,6 @@ jobs:
           # Configuration order
           config_order: |
             introduction,
-            fortune,
             base.header,
             base.activity+community,
             base.repositories,
