@@ -68,8 +68,8 @@ jobs:
           
 
           # Plugin: Stargazers
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
+          #plugin_stargazers: yes
+          #plugin_stargazers_charts: yes
 
           # Plugin: Isocalender
           plugin_isocalendar: yes
