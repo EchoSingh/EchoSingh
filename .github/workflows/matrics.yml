@@ -119,7 +119,7 @@ jobs:
           plugin_rss_limit: 4
 
           #chess
-          plugin_chess: yes
+          #plugin_chess: yes
           plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
           plugin_chess_platform: lichess.org
           plugin_chess_user: Rathore26
@@ -143,4 +143,4 @@ jobs:
             reactions,
             people,
             anilist+music,
-            chess+screenshot,
+            screenshot,
