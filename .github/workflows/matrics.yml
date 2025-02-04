@@ -125,7 +125,7 @@ jobs:
           plugin_chess_user: Rathore26
 
           #Display
-          config_display: large
+          #config_display: large
           # Configuration order
           config_order: |
             introduction,
