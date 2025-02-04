@@ -123,8 +123,9 @@ jobs:
           plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
           plugin_chess_platform: lichess.org
           plugin_chess_user: Rathore26
-          
 
+          #Display
+          config_display: large
           # Configuration order
           config_order: |
             introduction,
