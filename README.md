@@ -14,7 +14,6 @@
  <img src="https://lanyard.kyrie25.dev/api/1305957634700083212?useDisplayName=true&bg=00000000&waveColor=36BCF7&waveSpotifyColor=36BCF7" alt="Discord Status">
 </div>
 
-
 <div align="center">
 <img src="github-metrics-main.svg" alt="GitHub Metrics">
 </div>
@@ -39,6 +38,11 @@
     </tr>
 
 #
+-->
+</div>
+<div align="center">
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k4lyljbzoywe75iwn2sdugx7wq&count=1" alt="Music Status">
+</div>
 <!-- Bottom Section -->
 
 #
