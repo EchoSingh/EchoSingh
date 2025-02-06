@@ -72,7 +72,7 @@ jobs:
           #plugin_stargazers_charts: yes
 
           # Plugin: Isocalender
-          plugin_isocalendar: yes
+          #plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
           # Plugin: Stars
