@@ -39,6 +39,8 @@
 
 #
 -->
+
+<!--
 </div>
 <div align="center">
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k4lyljbzoywe75iwn2sdugx7wq&count=1" alt="Music Status">
