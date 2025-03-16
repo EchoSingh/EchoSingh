@@ -8,7 +8,12 @@
 
   <!-- Connect Section -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&center=true&repeat=false&width=435&lines=Connect)](https://linktr.ee/Aditya.Singh.R)
-  
+
+</div>
+<div align="center">
+ <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=EchoSingh&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="streak">
+</div>
+<!--  
 </div>
 <div align="center">
  <img src="https://lanyard.kyrie25.dev/api/1305957634700083212?useDisplayName=true&bg=00000000&waveColor=36BCF7&waveSpotifyColor=36BCF7" alt="Discord Status">
