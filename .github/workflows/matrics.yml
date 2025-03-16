@@ -32,7 +32,7 @@ jobs:
           plugin_introduction: yes
 
           # Plugin: Fortune
-          #plugin_fortune: yes
+          plugin_fortune: yes
 
           # Plugin: Lines
           plugin_lines: yes
@@ -62,9 +62,12 @@ jobs:
 
           # Plugin: Achievements
           plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_only: developer, forker, stargazer, deployer
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+
           
 
           # Plugin: Stargazers
@@ -72,7 +75,7 @@ jobs:
           #plugin_stargazers_charts: yes
 
           # Plugin: Isocalender
-          #plugin_isocalendar: yes
+          plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
           # Plugin: Stars
@@ -85,11 +88,11 @@ jobs:
           plugin_topics_mode: icons
 
           #Plugin Discussion
-          plugin_discussions: yes
+          #plugin_discussions: yes
 
           
           #website quote
-          plugin_screenshot: yes
+          #plugin_screenshot: yes
           plugin_screenshot_title: XKCD of the day
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: "#comic img"
@@ -98,10 +101,10 @@ jobs:
           # Anime 
           plugin_anilist_user: adi2603
           plugin_anilist: yes
-          plugin_anilist_medias: anime,manga
+          plugin_anilist_medias: anime,manga,characters
           plugin_anilist_sections: favorites
           plugin_anilist_limit: 1
-          plugin_anilist_limit_characters: 10
+          plugin_anilist_limit_characters: 4
 
           # Peoples
           plugin_people: yes
@@ -113,13 +116,19 @@ jobs:
           #plugin_leetcode_sections: solved, skills, recent
           #plugin_gists: yes
 
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 0
+          plugin_starlists_only: Awesome
+
           #rss
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
 
           #chess
-          #plugin_chess: yes
+          plugin_chess: yes
           plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
           plugin_chess_platform: lichess.org
           plugin_chess_user: Rathore26
