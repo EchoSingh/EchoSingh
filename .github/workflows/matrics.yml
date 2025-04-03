@@ -61,7 +61,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
           # Plugin: Achievements
-          plugin_achievements: yes
+          #plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, deployer, member, maintainer, developer,
             scripter, explorer, infographile
