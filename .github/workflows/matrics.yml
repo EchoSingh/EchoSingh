@@ -112,7 +112,7 @@ jobs:
 
           #leetcode
           plugin_leetcode_user: adi_s_r
-          plugin_leetcode: yes
+          #plugin_leetcode: yes
 
           #rss
           plugin_rss: yes
