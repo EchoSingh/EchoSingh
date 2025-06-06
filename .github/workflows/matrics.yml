@@ -88,10 +88,8 @@ jobs:
           plugin_topics_mode: icons
 
 
-          plugin_support_user: EchoSingh 
-          plugin_support: yes
           #Plugin Discussion
-          #plugin_discussions: yes
+          plugin_discussions: yes
 
 
           #website quote
