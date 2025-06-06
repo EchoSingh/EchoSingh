@@ -6,14 +6,14 @@ on:
     branches: [master, main]
   schedule:
     - cron: 30 6 * * * # Runs daily at (12:00 AM IST)
-    
+
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
@@ -22,7 +22,7 @@ jobs:
           outputs: |
             dist/snake1.svg
             dist/snake2.svg?palette=github-dark
-            dist/snake-realistic.svg?color_snake=#4B5320FF&color_dots=#6B8E23,#556B2F,#8F9779,#BDB76B,#D2B48C
+            dist/snake-realistic.svg?color_snake=#88C0D0FF&color_dots=#3B4252,#434C5E,#4C566A,#5E81AC,#81A1C1
           
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
