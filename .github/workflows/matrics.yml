@@ -1,11 +1,11 @@
-name: Github Metrics
+name: GitHub Metrics
 
 on:
   workflow_dispatch:
   push:
-    branches: [master, main]
+    branches: [main, master]
   schedule:
-    - cron: 30 6 * * * # Runs daily at 12:00 AM IST
+    - cron: 30 6 * * * # Daily at 12:00 AM IST
 
 jobs:
   github-metrics:
@@ -15,48 +15,44 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Batman-fusion metrics
+      - name: Generate GitHub Metrics (Batman x Catppuccin)
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics-${{ github.ref_name }}.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "🦇 Metrics out of the shadows!"
+          committer_message: "🦇 Freshly brewed GitHub Metrics!"
+          filename: github-metrics-${{ github.ref_name }}.svg
           user: EchoSingh
 
-          # Inject custom CSS: Batman fusion + Comic Sans
+          config_display: large
+          config_padding: "0,10"
+          config_timezone: Asia/Kolkata
+          config_twemoji: true
+          config_gemoji: true
+          config_animations: true
+          config_base64: true
+          config_output: svg
+
           extras_css: |
-            /* Black background + Comic Sans font throughout */
+            /* Batman x Comic Sans styling */
             svg {
-              background-color: #000000;
+              background-color: #0f0f0f;
               font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
             }
 
-            /* Header: Batman yellow */
-            .header {
+            .header, .header-title, .header-subtitle {
               fill: #FFD700;
-            }
-            .header-title,
-            .header-subtitle {
-              fill: #FFD700;
-              font-family: "Comic Sans MS", cursive;
+              font-weight: bold;
             }
 
-            /* Main text: soft gray for readability */
-            .text-primary,
-            .text-secondary,
-            .text-tertiary {
-              fill: #A9A9A9;
-              font-family: "Comic Sans MS", cursive;
+            .text-primary, .text-secondary, .text-tertiary {
+              fill: #CCCCCC;
             }
 
-            /* Icons and accent elements: Batman yellow */
-            .icon,
-            .icon * {
+            .icon, .icon * {
               fill: #FFD700;
             }
 
-            /* Card backgrounds: very dark gray with subtle gold border */
             .card {
               fill: #1f1f1f;
               stroke: #FFD700;
@@ -65,14 +61,24 @@ jobs:
               ry: 6;
             }
 
-            /* Subtle drop shadow on cards */
             .card-shadow {
               filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
             }
 
-          config_display: medium
-          config_padding: "0,10"
-          config_timezone: Asia/Kolkata
+          config_order: |
+            introduction,
+            base.header,
+            base.activity+community,
+            base.repositories,
+            habits,
+            achievements,
+            lines,
+            stars,
+            isocalendar,
+            topics,
+            rss,
+            anilist,
+            screenshot
 
           base: header
           base_indepth: no
@@ -87,7 +93,7 @@ jobs:
 
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: no
+          plugin_habits_charts: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -109,20 +115,3 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
-
-          config_order: |
-            introduction,
-            base.header,
-            base.activity+community,
-            base.repositories,
-            habits,
-            achievements,
-            lines,
-            wakatime,
-            stars,
-            isocalendar,
-            topics,
-            rss,
-            people,
-            anilist,
-            screenshot
