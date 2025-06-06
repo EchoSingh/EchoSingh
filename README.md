@@ -48,21 +48,21 @@
 </div>
 <!-- Bottom Section -->
 
-#
+
 <div align="center">
 <img src="github-metrics-main.svg" alt="GitHub Metrics">
 </div>
 
-#
+
 <div align="center">
   
   <!-- Typing Animation -->
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!)
-  
   <!-- GitHub Contribution Snake -->
   ![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake-cool.svg)
+
   
-  <!-- Footer -->
+  <!-- Footer 
   <p>
     <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
   </p>
@@ -78,3 +78,4 @@
     </a>
   </p>
 </div>
+-->
