@@ -59,7 +59,7 @@
   <!-- Typing Animation -->
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!)
   <!-- GitHub Contribution Snake -->
-  ![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake-cool.svg)
+  ![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake-realistic.svg)
 
   
   <!-- Footer 
