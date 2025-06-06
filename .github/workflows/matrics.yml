@@ -15,54 +15,44 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Batman-themed metrics
+      - name: Generate Catppuccin-themed metrics
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-${{ github.ref_name }}.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "I am vengeance. I am the night. I am GitHub!"
-          user: <YourGitHubUsername>
+          committer_message: "☕️ Metrics brewed fresh!"
+          user: EchoSingh
 
-          # Use custom Batman community template
-          template: "@batman-dark"
-          setup_community_templates: "your-username/github-metrics-batman@main:batman-dark+trust"
+          # Apply Catppuccin Mocha color palette
+          config_theme: dark
+          config_color: "1e1e2e"          # Background: Catppuccin Mocha surface0
+          config_color_title: "fab387"    # Titles/Icon accents: Catppuccin Peach
+          config_color_text: "cdd6f4"     # Text: Catppuccin Text
+          config_color_icon: "fab387"     # Icons: Catppuccin Peach
+          config_display: large
+          config_padding: "0,10"
 
-          # Pass custom colors into the Batman theme
-          query: |
-            {
-              "header_color": "#FFD700",
-              "background_color": "#000000",
-              "text_color": "#A9A9A9",
-              "icon_color": "#FFD700"
-            }
-
-          # Base configuration
           base: header
           base_indepth: no
           base_hireable: no
 
-          # Plugin: Introduction
           plugin_introduction: yes
 
-          # Plugin: Lines
           plugin_lines: yes
           plugin_lines_sections: base
           plugin_lines_repositories_limit: 5
           plugin_lines_history_limit: 2
 
-          # Plugin: Habits
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
           config_timezone: Asia/Kolkata
 
-          # Plugin: WakaTime
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
-          # Plugin: Achievements
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, deployer, member, maintainer, developer,
@@ -70,43 +60,43 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
 
-          # Plugin: Isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Plugin: Stars
           plugin_stars: yes
           plugin_stars_limit: 1
 
-          # Plugin: Topics
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
 
-          # Plugin: Screenshot (XKCD)
           plugin_screenshot: yes
           plugin_screenshot_title: XKCD of the day
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: "#comic img"
 
-          # Plugin: Anilist
           plugin_anilist: yes
-          plugin_analist_user: adi2603
+          plugin_anilist_user: adi2603
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites,characters
           plugin_anilist_limit: 1
           plugin_anilist_limit_characters: 1
 
-          # Plugin: People
           plugin_people: yes
           plugin_people_types: followers
 
-          # Plugin: RSS
+          plugin_leetcode: yes
+          plugin_leetcode_user: adi_s_r
+
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
 
-          # Configuration order
+          plugin_chess: yes
+          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
+          plugin_chess_platform: lichess.org
+          plugin_chess_user: Rathore26
+
           config_order: |
             introduction,
             base.header,
