@@ -1,117 +1,103 @@
 name: GitHub Metrics
 
 on:
+  schedule: [{ cron: "0 * * * *" }]  # Updates every hour
   workflow_dispatch:
-  push:
-    branches: [main, master]
-  schedule:
-    - cron: 30 6 * * * # Daily at 12:00 AM IST
+  push: { branches: ["main", "master"] }
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
-      - name: Generate GitHub Metrics (Batman x Catppuccin)
+      - name: Generate GitHub Metrics (Dark + Batman x Catppuccin)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "🦇 Freshly brewed GitHub Metrics!"
-          filename: github-metrics-${{ github.ref_name }}.svg
-          user: EchoSingh
 
-          config_display: large
-          config_padding: "0,10"
-          config_timezone: Asia/Kolkata
+          user: EchoSingh
+          template: classic
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Calcutta
           config_twemoji: true
           config_gemoji: true
+          config_octicon: true
           config_animations: true
           config_base64: true
-          config_output: svg
+          config_padding: "0,10"
+          config_display: large
+
+          filename: github-metrics-${{ github.ref_name }}.svg
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "🦇 Gotham status report delivered."
 
           extras_css: |
-            /* Batman x Comic Sans styling */
             svg {
-              background-color: #0f0f0f;
+              background-color: #1e1e2e;
               font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
             }
 
             .header, .header-title, .header-subtitle {
-              fill: #FFD700;
+              fill: #fab387; /* Catppuccin Mocha Peach */
               font-weight: bold;
             }
 
             .text-primary, .text-secondary, .text-tertiary {
-              fill: #CCCCCC;
+              fill: #cdd6f4; /* Latte text color */
             }
 
             .icon, .icon * {
-              fill: #FFD700;
+              fill: #f9e2af; /* Yellowish Gold accent */
             }
 
             .card {
-              fill: #1f1f1f;
-              stroke: #FFD700;
+              fill: #2e2e3e;
+              stroke: #fab387;
               stroke-width: 1;
               rx: 6;
               ry: 6;
             }
 
             .card-shadow {
-              filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
+              filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.5));
             }
 
-          config_order: |
-            introduction,
-            base.header,
-            base.activity+community,
-            base.repositories,
-            habits,
-            achievements,
-            lines,
-            stars,
-            isocalendar,
-            topics,
-            rss,
-            anilist,
-            screenshot
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
 
-          base: header
-          base_indepth: no
-          base_hireable: no
+          plugin_anilist: yes
+          plugin_anilist_user: .user.login
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites,characters
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 1
+          plugin_anilist_shuffle: yes
 
+          plugin_gists: yes
           plugin_introduction: yes
-
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_repositories_limit: 5
-          plugin_lines_history_limit: 2
-
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_introduction_title: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          plugin_stars: yes
-          plugin_stars_limit: 1
-
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-
-          plugin_anilist: yes
-          plugin_anilist_user: adi2603
-          plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites,characters
-          plugin_anilist_limit: 1
-          plugin_anilist_limit_characters: 1
-
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
+
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: chartist
+          plugin_stargazers_days: 14
+          plugin_stargazers_worldmap: yes
+
+          plugin_starlists: yes
+          plugin_starlists_limit: 2
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_shuffle_repositories: yes
