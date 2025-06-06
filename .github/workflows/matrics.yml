@@ -101,10 +101,10 @@ jobs:
           # Anime 
           plugin_anilist_user: adi2603
           plugin_anilist: yes
-          plugin_anilist_medias: anime,manga,characters
-          plugin_anilist_sections: favorites
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites,characters
           plugin_anilist_limit: 1
-          plugin_anilist_limit_characters: 4
+          plugin_anilist_limit_characters: 1
 
           # Peoples
           # plugin_people: yes
