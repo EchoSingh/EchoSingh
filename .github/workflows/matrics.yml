@@ -15,41 +15,59 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Catppuccin-themed metrics
+      - name: Generate Batman-fusion metrics
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-${{ github.ref_name }}.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "☕️ Metrics brewed fresh!"
+          committer_message: "🦇 Metrics out of the shadows!"
           user: EchoSingh
 
-          # Inject custom CSS to apply Catppuccin Mocha palette
+          # Inject custom CSS: Batman fusion + Comic Sans
           extras_css: |
-            /* Background */
-            svg { background-color: #1e1e2e; }
+            /* Black background + Comic Sans font throughout */
+            svg {
+              background-color: #000000;
+              font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+            }
 
-            /* Header background and title text */
+            /* Header: Batman yellow */
             .header {
-              fill: #fab387;
+              fill: #FFD700;
             }
-            .header-title, .header-subtitle {
-              fill: #fab387;
-            }
-
-            /* Primary text color */
-            .text-primary, .text-secondary, .text-tertiary {
-              fill: #cdd6f4;
+            .header-title,
+            .header-subtitle {
+              fill: #FFD700;
+              font-family: "Comic Sans MS", cursive;
             }
 
-            /* Icons and accent elements */
-            .icon, .icon * {
-              fill: #fab387;
+            /* Main text: soft gray for readability */
+            .text-primary,
+            .text-secondary,
+            .text-tertiary {
+              fill: #A9A9A9;
+              font-family: "Comic Sans MS", cursive;
             }
 
-            /* Card backgrounds (if any) */
+            /* Icons and accent elements: Batman yellow */
+            .icon,
+            .icon * {
+              fill: #FFD700;
+            }
+
+            /* Card backgrounds: very dark gray with subtle gold border */
             .card {
-              fill: #2e2e3e;
+              fill: #1f1f1f;
+              stroke: #FFD700;
+              stroke-width: 1;
+              rx: 6;
+              ry: 6;
+            }
+
+            /* Subtle drop shadow on cards */
+            .card-shadow {
+              filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
             }
 
           config_display: medium
@@ -71,13 +89,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
 
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, deployer, member, maintainer, developer,
-            scripter, explorer, infographile
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
@@ -87,7 +98,6 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
-
 
           plugin_anilist: yes
           plugin_anilist_user: adi2603
@@ -99,7 +109,6 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
-
 
           config_order: |
             introduction,
