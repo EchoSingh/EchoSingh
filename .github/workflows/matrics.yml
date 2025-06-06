@@ -24,14 +24,37 @@ jobs:
           committer_message: "☕️ Metrics brewed fresh!"
           user: EchoSingh
 
-          # Apply Catppuccin Mocha color palette
-          config_theme: dark
-          config_color: "1e1e2e"          # Background: Catppuccin Mocha surface0
-          config_color_title: "fab387"    # Titles/Icon accents: Catppuccin Peach
-          config_color_text: "cdd6f4"     # Text: Catppuccin Text
-          config_color_icon: "fab387"     # Icons: Catppuccin Peach
-          config_display: large
+          # Inject custom CSS to apply Catppuccin Mocha palette
+          extras_css: |
+            /* Background */
+            svg { background-color: #1e1e2e; }
+
+            /* Header background and title text */
+            .header {
+              fill: #fab387;
+            }
+            .header-title, .header-subtitle {
+              fill: #fab387;
+            }
+
+            /* Primary text color */
+            .text-primary, .text-secondary, .text-tertiary {
+              fill: #cdd6f4;
+            }
+
+            /* Icons and accent elements */
+            .icon, .icon * {
+              fill: #fab387;
+            }
+
+            /* Card backgrounds (if any) */
+            .card {
+              fill: #2e2e3e;
+            }
+
+          config_display: medium
           config_padding: "0,10"
+          config_timezone: Asia/Kolkata
 
           base: header
           base_indepth: no
@@ -47,11 +70,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          config_timezone: Asia/Kolkata
-
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
           plugin_achievements: yes
           plugin_achievements_only: >-
@@ -70,10 +88,6 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
 
-          plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic img"
 
           plugin_anilist: yes
           plugin_anilist_user: adi2603
@@ -82,20 +96,10 @@ jobs:
           plugin_anilist_limit: 1
           plugin_anilist_limit_characters: 1
 
-          plugin_people: yes
-          plugin_people_types: followers
-
-          plugin_leetcode: yes
-          plugin_leetcode_user: adi_s_r
-
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
 
-          plugin_chess: yes
-          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-          plugin_chess_platform: lichess.org
-          plugin_chess_user: Rathore26
 
           config_order: |
             introduction,
