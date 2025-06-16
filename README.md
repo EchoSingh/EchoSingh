@@ -1,5 +1,17 @@
-<p align="center"><i>“Go down deep enough into anything and you will find mathematics.”</i></p>
-<p align="center"><i>- Dean Schlicter -</i></p>
+<p align="center">
+  
+```cpp
+#include <iostream>
+
+int main() {
+    auto transcend = []() {
+        return "while (speed <= light) break; // Go beyond";
+    };
+    std::cout << transcend() << '\n';
+}
+````
+</p>
+<p align="center"><i>- Aditya Singh -</i></p>
 
 <details>
 <summary>more</summary>
