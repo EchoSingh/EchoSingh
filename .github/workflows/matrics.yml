@@ -49,19 +49,6 @@ jobs:
           plugin_habits_charts: no
           config_timezone: Asia/Kolkata
 
-          # Plugin: WakaTime
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, languages, editors, os
-
-          # Plugin: Achievements
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, deployer, member, maintainer, developer,
-            scripter, explorer, infographile
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-
           # Plugin: Isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -105,12 +92,6 @@ jobs:
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
 
-          # Plugin: Chess
-          plugin_chess: yes
-          plugin_chess_platform: lichess.org
-          plugin_chess_user: Rathore26
-          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-
           # Display config and order
           config_order: |
             base.header,
@@ -118,9 +99,7 @@ jobs:
             base.activity+community,
             base.repositories,
             habits,
-            achievements,
             lines,
-            wakatime,
             discussions,
             stars,
             isocalendar,
