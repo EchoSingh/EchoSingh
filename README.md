@@ -45,7 +45,6 @@ int main() {
 
   <br /><br />
 
-<!--
 ### My Followers
 
 <div align="center">
@@ -192,7 +191,6 @@ int main() {
     </tr>
   </table>
 </div>
--->
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!" alt="Typing Animation" />
    
