@@ -13,13 +13,14 @@ int main() {
 </p>
 <p align="center"><i>- Aditya Singh -</i></p>
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!" alt="Typing Animation" />
+   
+  <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake-realistic.svg" alt="Contribution Snake Animation" />
+  
+<br /><br />
 <details>
 <summary>more</summary>
 <div align="center">
-
-  <img src="https://i.pinimg.com/736x/79/49/3f/79493f5d26d28449cee555eae342f83c.jpg" alt="Banner" width="800" height="150"/>
-
-  <br /><br />
   
   <a href="https://github.com/EchoSingh">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=8000&pause=1000&center=true&repeat=true&width=435&lines=Hi%2C+I'm+Aditya+Singh" alt="Typing SVG" />
@@ -43,7 +44,6 @@ int main() {
 
   <img src="https://raw.githubusercontent.com/EchoSingh/EchoSingh/main/github-metrics-main.svg" alt="GitHub Metrics" />
 
-  <br /><br />
 
 ### My Followers
 
@@ -190,12 +190,4 @@ int main() {
       </td>
     </tr>
   </table>
-</div>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!" alt="Typing Animation" />
-   
-  <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake-realistic.svg" alt="Contribution Snake Animation" />
-  
-  <br /><br />
-  
 </div>
