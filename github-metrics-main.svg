@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -131,7 +131,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jarred-Sumner/git-peek</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">git repo to local editor instantly</div>
@@ -1241,7 +1241,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Biomolecular shifts occur in our 40s and 60s (2024)</div>
+                                <div class="title">Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights</div>
                                 <div class="date">27 Jun 2025</div>
                             </div>
                         </div>
@@ -1250,7 +1250,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">XSLT</div>
+                                <div class="title">Qwen VLo: From "Understanding" the World to "Depicting" It</div>
                                 <div class="date">27 Jun 2025</div>
                             </div>
                         </div>
@@ -1259,7 +1259,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Sick of emailing yourself stuff? me too</div>
+                                <div class="title">Weird Expressions in Rust</div>
                                 <div class="date">27 Jun 2025</div>
                             </div>
                         </div>
@@ -1268,8 +1268,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AlphaGenome: AI for better understanding the genome</div>
-                                <div class="date">26 Jun 2025</div>
+                                <div class="title">Transmitting data via ultrasound without any special equipment</div>
+                                <div class="date">27 Jun 2025</div>
                             </div>
                         </div>
                     </section>
