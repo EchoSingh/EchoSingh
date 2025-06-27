@@ -1,11 +1,11 @@
-name: Github Metrics
+name: GitHub Metrics
 
 on:
   workflow_dispatch:
   push:
     branches: [master, main]
   schedule:
-    - cron: 30 6 * * * # Runs daily at (12:00 AM IST)
+    - cron: '30 0 * * *' # Runs daily at 06:00 AM UTC (12:00 AM IST)
 
 jobs:
   github-metrics:
@@ -15,7 +15,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate metrics
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-${{ github.ref_name }}.svg
@@ -23,16 +23,13 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_message: "^_^"
 
-          # Base configuration
+          # Base config
           base: header
           base_indepth: no
           base_hireable: no
 
-          # Plugin: Intro
+          # Plugin: Introduction
           plugin_introduction: yes
-
-          # Plugin: Fortune
-          #plugin_fortune: yes
 
           # Plugin: Lines
           plugin_lines: yes
@@ -46,35 +43,26 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: "https://adi-pf.vercel.app/"
 
-          # Plugin:Notable
-          #plugin_notable: yes
-
-          # Plugin: habits
+          # Plugin: Habits
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
           config_timezone: Asia/Kolkata
 
           # Plugin: WakaTime
-          #plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, editors, os
+          plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, languages, editors, os
 
           # Plugin: Achievements
-          #plugin_achievements: yes
+          plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, deployer, member, maintainer, developer,
             scripter, explorer, infographile
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
 
-
-
-          # Plugin: Stargazers
-          #plugin_stargazers: yes
-          #plugin_stargazers_charts: yes
-
-          # Plugin: Isocalender
+          # Plugin: Isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
@@ -82,59 +70,54 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 1
 
-          #Plugin topics
+          # Plugin: Topics
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
 
-
-          #Plugin Discussion
+          # Plugin: Discussions
           plugin_discussions: yes
 
-
-          #website quote
-          # plugin_screenshot: yes
+          # Plugin: Screenshot (XKCD)
+          plugin_screenshot: yes
           plugin_screenshot_title: XKCD of the day
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: "#comic img"
 
-          # Hobbies
-          # Anime
+          # Plugin: Anilist (Anime/Manga)
+          plugin_anilist: yes
           plugin_anilist_user: adi2603
-          #plugin_anilist: yes
           plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites,characters
+          plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 1
           plugin_anilist_limit_characters: 1
 
-          # Peoples
-          # plugin_people: yes
+          # Plugin: People
+          plugin_people: yes
           plugin_people_types: followers
 
-          #leetcode
-          plugin_leetcode_user: adi_s_r
+          # Plugin: LeetCode
           plugin_leetcode: yes
+          plugin_leetcode_user: adi_s_r
 
-          #rss
+          # Plugin: RSS
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
 
-          #chess
-          #plugin_chess: yes
-          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
+          # Plugin: Chess
+          plugin_chess: yes
           plugin_chess_platform: lichess.org
           plugin_chess_user: Rathore26
+          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
 
-          #Display
-          #config_display: large
-          # Configuration order
+          # Display config and order
           config_order: |
             base.header,
             introduction,
             base.activity+community,
             base.repositories,
-            habit,
+            habits,
             achievements,
             lines,
             wakatime,
@@ -143,6 +126,5 @@ jobs:
             isocalendar,
             topics,
             rss,
-            reactions,
             people,
-            screenshot,
+            screenshot
