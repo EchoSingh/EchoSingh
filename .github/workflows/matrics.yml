@@ -41,16 +41,16 @@ jobs:
           plugin_lines_history_limit: 2
 
           # Plugin: PageSpeed
-          #plugin_pagespeed: yes
-          #plugin_pagespeed_screenshot: yes
-          #plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          #plugin_pagespeed_url: "your_site_url"
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: "https://adi-pf.vercel.app/"
 
           # Plugin:Notable
           #plugin_notable: yes
 
           # Plugin: habits
-          #plugin_habits: yes
+          plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
           config_timezone: Asia/Kolkata
@@ -101,7 +101,7 @@ jobs:
           # Hobbies
           # Anime
           plugin_anilist_user: adi2603
-          plugin_anilist: yes
+          #plugin_anilist: yes
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites,characters
           plugin_anilist_limit: 1
@@ -113,7 +113,7 @@ jobs:
 
           #leetcode
           plugin_leetcode_user: adi_s_r
-          #plugin_leetcode: yes
+          plugin_leetcode: yes
 
           #rss
           plugin_rss: yes
@@ -145,5 +145,4 @@ jobs:
             rss,
             reactions,
             people,
-            anilist+music,
             screenshot,
