@@ -191,6 +191,12 @@ int main() {
           <sub><b>Shreya Mahadev</b></sub>
         </a>
       </td>
+       <td align="center">
+        <a href="https://github.com/typovrak">
+          <img src="https://avatars.githubusercontent.com/typovrak" width="50px" alt="typovrak"/><br />
+          <sub><b>typovrak</b></sub>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
