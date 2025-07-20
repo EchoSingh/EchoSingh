@@ -44,8 +44,7 @@ int main() {
 
   <img src="https://raw.githubusercontent.com/EchoSingh/EchoSingh/main/github-metrics-main.svg" alt="GitHub Metrics" />
 
-
-### My Followers
+  ### My Followers
 <div align="center">
   <table>
     <tr>
@@ -73,8 +72,6 @@ int main() {
           <sub><b>Aadya Shrivastava</b></sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/pkparthk">
           <img src="https://avatars.githubusercontent.com/pkparthk" width="50px" alt="pkparthk"/><br />
@@ -87,6 +84,8 @@ int main() {
           <sub><b>Inchara J</b></sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/0xChilli">
           <img src="https://avatars.githubusercontent.com/0xChilli" width="50px" alt="0xChilli"/><br />
@@ -99,8 +98,6 @@ int main() {
           <sub><b>Akash Arka</b></sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/rahulkrchaudhary">
           <img src="https://avatars.githubusercontent.com/rahulkrchaudhary" width="50px" alt="rahulkrchaudhary"/><br />
@@ -151,8 +148,6 @@ int main() {
           <sub><b>Y Sudharshan</b></sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/Surajsm60720">
           <img src="https://avatars.githubusercontent.com/Surajsm60720" width="50px" alt="Surajsm60720"/><br />
@@ -165,6 +160,8 @@ int main() {
           <sub><b>Prakhar Sahu</b></sub>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/kylehonke">
           <img src="https://avatars.githubusercontent.com/kylehonke" width="50px" alt="kylehonke"/><br />
@@ -177,8 +174,6 @@ int main() {
           <sub><b>Harsh Joshi</b></sub>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/vedant-35">
           <img src="https://avatars.githubusercontent.com/vedant-35" width="50px" alt="vedant-35"/><br />
@@ -191,10 +186,24 @@ int main() {
           <sub><b>Shreya Mahadev</b></sub>
         </a>
       </td>
-       <td align="center">
+      <td align="center">
         <a href="https://github.com/typovrak">
           <img src="https://avatars.githubusercontent.com/typovrak" width="50px" alt="typovrak"/><br />
           <sub><b>typovrak</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kanishk101">
+          <img src="https://avatars.githubusercontent.com/Kanishk101" width="50px" alt="Kanishk101"/><br />
+          <sub><b>Kanishk Srivastava</b></sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Shravya312">
+          <img src="https://avatars.githubusercontent.com/Shravya312" width="50px" alt="Shravya312"/><br />
+          <sub><b>Shravya</b></sub>
         </a>
       </td>
     </tr>
