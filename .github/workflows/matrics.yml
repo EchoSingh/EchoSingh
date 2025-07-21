@@ -80,7 +80,7 @@ jobs:
           plugin_anilist_limit_characters: 1
 
           # Plugin: People
-          plugin_people: yes
+          #plugin_people: yes
           plugin_people_types: followers
 
           # Plugin: LeetCode
