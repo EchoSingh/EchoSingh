@@ -187,12 +187,6 @@ int main() {
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/typovrak">
-          <img src="https://avatars.githubusercontent.com/typovrak" width="50px" alt="typovrak"/><br />
-          <sub><b>typovrak</b></sub>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://github.com/Kanishk101">
           <img src="https://avatars.githubusercontent.com/Kanishk101" width="50px" alt="Kanishk101"/><br />
           <sub><b>Kanishk Srivastava</b></sub>
