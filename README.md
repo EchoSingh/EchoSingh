@@ -51,6 +51,12 @@ int main() {
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/seckinyasar" aria-label="seckinyasar">
+        <img src="https://avatars.githubusercontent.com/u/86570205?v=4" width="50px" alt="seckinyasar"/><br />
+        <sub><b>seckinyasar</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Kanishk101" aria-label="Kanishk101">
         <img src="https://avatars.githubusercontent.com/u/92754882?v=4" width="50px" alt="Kanishk101"/><br />
         <sub><b>Kanishk101</b></sub>
@@ -80,15 +86,15 @@ int main() {
         <sub><b>Harshjosh361</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/Surajsm60720" aria-label="Surajsm60720">
         <img src="https://avatars.githubusercontent.com/u/120303183?v=4" width="50px" alt="Surajsm60720"/><br />
         <sub><b>Surajsm60720</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/avii09" aria-label="avii09">
         <img src="https://avatars.githubusercontent.com/u/121215948?v=4" width="50px" alt="avii09"/><br />
@@ -119,15 +125,15 @@ int main() {
         <sub><b>vedant-35</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/Vaibhav-Magadum" aria-label="Vaibhav-Magadum">
         <img src="https://avatars.githubusercontent.com/u/139147981?v=4" width="50px" alt="Vaibhav-Magadum"/><br />
         <sub><b>Vaibhav-Magadum</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/1223akash" aria-label="1223akash">
         <img src="https://avatars.githubusercontent.com/u/139630240?v=4" width="50px" alt="1223akash"/><br />
@@ -158,15 +164,15 @@ int main() {
         <sub><b>ShreyaMahadev</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/Prakharsahu10" aria-label="Prakharsahu10">
         <img src="https://avatars.githubusercontent.com/u/147237263?v=4" width="50px" alt="Prakharsahu10"/><br />
         <sub><b>Prakharsahu10</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/Incharajayaram" aria-label="Incharajayaram">
         <img src="https://avatars.githubusercontent.com/u/148113274?v=4" width="50px" alt="Incharajayaram"/><br />
@@ -197,12 +203,20 @@ int main() {
         <sub><b>scapelinked</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/aadyas17" aria-label="aadyas17">
         <img src="https://avatars.githubusercontent.com/u/171001126?v=4" width="50px" alt="aadyas17"/><br />
         <sub><b>aadyas17</b></sub>
       </a>
     </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 </div>
