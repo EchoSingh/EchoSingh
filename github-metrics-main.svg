@@ -1000,11 +1000,11 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -25.8k +120k @@</span>
+<span class="diff">@@ -13.1k +106k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">echosingh@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://adi-pf.vercel.app</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://adi-pf.vercel.app
-<b>X-Performance</b>: 100%
+<b>X-Performance</b>: 99%
 <b>X-Accessibility</b>: 96%
 <b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 91%
