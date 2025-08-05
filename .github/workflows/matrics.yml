@@ -1,5 +1,4 @@
 # GitHub Metrics
-# This workflow generates a visually appealing GitHub metrics image for your profile.
 
 name: GitHub Metrics
 
@@ -8,7 +7,6 @@ on:
   push:
     branches: [master, main]
   schedule:
-    # Runs daily at 00:30 UTC
     - cron: '30 0 * * *' 
 
 jobs:
@@ -34,12 +32,9 @@ jobs:
           # A friendly message for the commit
           committer_message: "Updated GitHub Metrics"
 
-          # ------------------------------------
-          # Visuals and Layout Configuration
-          # ------------------------------------
           
           # Use a dark, sleek theme. You can change this to `classic` or `markdown` if you prefer.
-          template: terminal
+          template: classic
           config_timezone: Asia/Kolkata
           config_padding: 10
           config_animations: yes
@@ -54,11 +49,8 @@ jobs:
             lines,
             discussions,
             leetcode,
-            stars,
             topics,
-            rss,
             anilist,
-            screenshot,
             base.repositories,
             pagespeed
 
@@ -96,7 +88,7 @@ jobs:
           plugin_habits_charts: no
 
           # Plugin: Stars
-          plugin_stars: yes
+          #plugin_stars: yes
           plugin_stars_limit: 1
 
           # Plugin: Topics
@@ -108,7 +100,7 @@ jobs:
           plugin_discussions: yes
 
           # Plugin: Screenshot (XKCD)
-          plugin_screenshot: yes
+          #plugin_screenshot: yes
           plugin_screenshot_title: XKCD of the day
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: "#comic img"
@@ -130,6 +122,6 @@ jobs:
           plugin_leetcode_user: rayo_n
 
           # Plugin: RSS
-          plugin_rss: yes
+          #plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
