@@ -15,7 +15,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Metrics
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-${{ github.ref_name }}.svg
@@ -23,87 +23,21 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_message: "^_^"
 
-          # Base config
-          base: header
-          base_indepth: no
-          base_hireable: no
+          # Plugins Configuration
 
-          # Plugin: Introduction
-          plugin_introduction: yes
-
-          # Plugin: Lines
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_repositories_limit: 5
-          plugin_lines_history_limit: 2
-
-          # Plugin: PageSpeed
-          plugin_pagespeed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: "https://adi-pf.vercel.app/"
-
-          # Plugin: Habits
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: Asia/Kolkata
-
-          # Plugin: Isocalendar
+          # Isometric calendar (last 6 months of contributions)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Plugin: Stars
-          plugin_stars: yes
-          plugin_stars_limit: 1
-
-          # Plugin: Topics
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-
-          # Plugin: Discussions
+          # GitHub Discussions participation
           plugin_discussions: yes
 
-          # Plugin: Screenshot (XKCD)
-          plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic img"
-
-          # Plugin: Anilist (Anime/Manga)
-          plugin_anilist: yes
-          plugin_anilist_user: adi2603
-          plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 1
-          plugin_anilist_limit_characters: 1
-
-          # Plugin: People
-          #plugin_people: yes
-          plugin_people_types: followers
-
-          # Plugin: LeetCode
+          # LeetCode stats
           plugin_leetcode: yes
-          plugin_leetcode_user: adi_s_r
+          plugin_leetcode_user: rayo_n
 
-          # Plugin: RSS
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
-          plugin_rss_limit: 4
-
-          # Display config and order
+          # Display configuration order
           config_order: |
-            base.header,
-            introduction,
-            base.activity+community,
-            base.repositories,
-            habits,
-            lines,
             discussions,
-            stars,
-            isocalendar,
-            topics,
-            rss,
-            people,
-            screenshot
+            leetcode,
+            isocalendar
