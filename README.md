@@ -1,27 +1,16 @@
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!" alt="Typing Animation" />
-   
-  <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake-realistic.svg" alt="Contribution Snake Animation" />
- 
-<br /><br />
-<div align="center">
-  
-  <a href="https://github.com/EchoSingh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=8000&pause=1000&center=true&repeat=true&width=435&lines=Hi%2C+I'm+Aditya+Singh" alt="Typing SVG" />
-  </a>
-  <br />
- 
-  <img src="https://i.gifer.com/XOsa.gif" alt="bat flying" width="150" />
-  <br /><br />
+  <div style="flex: 1;">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=150&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey;I'm+Aditya+Singh"
+      style="max-width: 100%;"
+      alt="Typing animation"
+    />
+  </div>
 
-  <a href="https://linktr.ee/Aditya.Singh.R">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&center=true&repeat=false&width=435&lines=Connect+with+me" alt="Connect Typing SVG" />
-  </a>
+  <div style="flex: 0 0 25%; text-align: center;">
+    <img src="assets/Me.png" alt="Aditya Singh" style="width: 100%; border-radius: 8px;" />
+    <p><sub><i>That's me at DSCE Campus - Sep 7, 2023</i></sub></p>
+  </div>
 
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=EchoSingh&theme=tokyonight-duo&hide_border=true&border_radius=4" alt="GitHub Streak Stats" />
-
-  <br /><br />
-
-  <img src="https://raw.githubusercontent.com/EchoSingh/EchoSingh/main/github-metrics-main.svg" alt="GitHub Metrics" />
+</div>

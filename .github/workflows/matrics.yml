@@ -7,7 +7,7 @@ on:
   push:
     branches: [master, main]
   schedule:
-    - cron: '30 0 * * *' 
+    - cron: '30 0 * * *'
 
 jobs:
   github-metrics:
@@ -21,24 +21,24 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # The filename for the output SVG
-          filename: github-metrics-${{ github.ref_name }}.svg
-          
+          filename: assets/github-metrics-${{ github.ref_name }}.svg
+
           # Personal Access Token (PAT) for access to private data
           token: ${{ secrets.METRICS_TOKEN }}
-          
+
           # Committer token is used to create the commit
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          
+
           # A friendly message for the commit
           committer_message: "Updated GitHub Metrics"
 
-          
+
           # Use a dark, sleek theme. You can change this to `classic` or `markdown` if you prefer.
           template: classic
           config_timezone: Asia/Kolkata
           config_padding: 10
           config_animations: yes
-          
+
           # Display config and order
           config_order: |
             base.header,
@@ -75,7 +75,7 @@ jobs:
           plugin_lines_sections: base
           plugin_lines_repositories_limit: 5
           plugin_lines_history_limit: 2
-          
+
           # Plugin: PageSpeed
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
