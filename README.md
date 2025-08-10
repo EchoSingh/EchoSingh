@@ -1,4 +1,4 @@
-
+<!--
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!" alt="Typing Animation" />
    
   <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake-realistic.svg" alt="Contribution Snake Animation" />
@@ -25,3 +25,4 @@
   <br /><br />
 
   <img src="https://raw.githubusercontent.com/EchoSingh/EchoSingh/main/github-metrics-main.svg" alt="GitHub Metrics" />
+-->
