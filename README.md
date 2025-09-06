@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://adi-pf.vercel.app">website</a> • 
+    <a href="https://adi-pf.vercel.app">me</a> • 
     <a href="https://hashnode.com/@echosingh">newsletter</a> • 
     <a href="https://www.goodreads.com/aditya_reads">goodreads</a> • 
     <a href="https://www.linkedin.com/in/adityasinghgdev">linkedin</a> • 
