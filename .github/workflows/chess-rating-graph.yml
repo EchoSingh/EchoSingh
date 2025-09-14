@@ -1,0 +1,24 @@
+name: Update chess rating graph
+on:
+  schedule:
+    - cron: '30 18 * * *'
+permissions:
+  contents: write
+
+jobs:
+  update-ratings-graph:
+    name: Update this repo's README chess rating graph
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Update chart
+        uses: mmzeynalli/chess-rating-chart@v1
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CHESS_COM_USERNAME: rayon_user
+          CHESS_COM_TIME_CLASS: rapid
+          LAST_N_GAMES: 50
+          RATING_CHART_HEIGHT: 12
+          COMMIT_BY_ME: true
+          COMMIT_MESSAGE: "♟️ Auto-update: Chess.com Rapid Rating Chart"
