@@ -19,7 +19,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CHESS_COM_USERNAME: rayon_user
           CHESS_COM_TIME_CLASS: rapid
-          LAST_N_GAMES: 50
+          LAST_N_GAMES: 200
           RATING_CHART_HEIGHT: 12
           COMMIT_BY_ME: true
           COMMIT_MESSAGE: "♟️ Auto-update: Chess.com Rapid Rating Chart"
