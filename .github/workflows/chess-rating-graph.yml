@@ -2,6 +2,7 @@ name: Update chess rating graph
 on:
   schedule:
     - cron: '30 18 * * *'
+  workflow_dispatch:
 permissions:
   contents: write
 
