@@ -25,4 +25,6 @@ My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated inst
 
 <details>
 <summary>:chess_pawn: Chess.com Rating Chart</summary>
+<!-- START_RATING_GRAPH:chess.com -->
+<!-- END_RATING_GRAPH:chess.com -->
 </details>
