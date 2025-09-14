@@ -22,3 +22,7 @@ My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated inst
     <a href="https://www.hackerrank.com/profile/rayo_n">hackerrank</a>
   </samp>
 </p>
+
+<details>
+<summary>:chess_pawn: Chess.com Rating Chart</summary>
+</details>
