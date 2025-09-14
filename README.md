@@ -26,5 +26,23 @@ My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated inst
 <details>
 <summary>:chess_pawn: Chess.com Rating Chart</summary>
 <!-- START_RATING_GRAPH:chess.com -->
+Chess.com rating chart for the last 50 games:
+
+```ascii
+ 816 ┤             ╭─╮╭╮      ╭╮
+ 810 ┤             │ │││      ││
+ 804 ┤          ╭╮╭╯ ╰╯╰╮╭╮  ╭╯│          ╭╮
+ 798 ┤          │╰╯     ╰╯╰╮╭╯ │         ╭╯╰╮
+ 793 ┼─╮      ╭╮│          ││  │        ╭╯  ╰╮╭╮  ╭╮
+ 787 ┤ │    ╭─╯││          ╰╯  │        │    │││╭╮││
+ 781 ┤ │   ╭╯  ││              │     ╭╮╭╯    ╰╯╰╯╰╯╰╮╭╮
+ 775 ┤ │  ╭╯   ╰╯              │╭╮╭╮╭╯╰╯            ╰╯│
+ 769 ┤ │ ╭╯                    ││││││                 ╰
+ 763 ┤ │ │                     ╰╯╰╯╰╯
+ 758 ┤ │ │
+ 752 ┤ │ │
+ 746 ┤ ╰─╯
+ 740 ┤
+```
 <!-- END_RATING_GRAPH:chess.com -->
 </details>
