@@ -22,27 +22,3 @@ My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated inst
     <a href="https://www.goodreads.com/aditya_reads">goodreads</a> 
   </samp>
 </p>
-
-<details>
-<summary>:chess_pawn: Chess.com Rating Chart</summary>
-<!-- START_RATING_GRAPH:chess.com -->
-Chess.com rating chart for the last 200 games:
-
-```ascii
-1006 ┤                                                                                                                                                                                  ╭╮
- 981 ┤                                                                                                                                                                                 ╭╯│
- 957 ┤                                                                                                                                                                            ╭╮  ╭╯ │ ╭───╮
- 932 ┤                                                                                                                                                                            ││  │  │ │   │
- 908 ┤                                                                                                                                                                            │╰╮╭╯  ╰╮│   │
- 883 ┤         ╭──╮                                                              ╭──╮                 ╭─╮  ╭──╮╭────╮          ╭╮╭╮                   ╭╮                 ╭───╮    │ ╰╯    ╰╯   │
- 859 ┤       ╭─╯  │                                                              │  ╰──╮              │ ╰──╯  ╰╯    ╰────╮  ╭──╯╰╯│        ╭╮     ╭╮╭─╯╰────╮╭────╮╭╮╭───╯   ╰╮   │            │
- 834 ┤      ╭╯    │           ╭─╮╭╮      ╭╮                                      │     ╰─────╮        │                  ╰──╯     │╭╮     ╭╯╰╮  ╭─╯╰╯       ╰╯    ╰╯╰╯        ╰╮ ╭╯            │
- 810 ┼─╮╭╮ ╭╯     │      ╭╮╭──╯ ╰╯╰──────╯│        ╭────╮╭╮╭╮╭╮                  │           ╰──╮╭────╯                           ╰╯╰╮   ╭╯  ╰──╯                              │╭╯             │
- 785 ┤ ╰╯╰─╯      │ ╭────╯╰╯              ╰────────╯    ╰╯╰╯╰╯╰───╮  ╭───────────╯              ╰╯                                   ╰───╯                                     ╰╯              │
- 761 ┤            ╰─╯                                             ╰──╯                                                                                                                         │          ╭──
- 736 ┤                                                                                                                                                                                         │  ╭╮╭─────╯
- 712 ┤                                                                                                                                                                                         ╰──╯╰╯
- 687 ┤
-```
-<!-- END_RATING_GRAPH:chess.com -->
-</details>
