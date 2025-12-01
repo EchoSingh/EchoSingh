@@ -10,7 +10,7 @@ My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated inst
 -   :package: [Garuda Linux](https://garudalinux.org/) / [Windows 11](https://www.microsoft.com/windows/) / [Sublime Text](https://www.sublimetext.com/) / [mpv](https://mpv.io/) / [Chromium](https://www.chromium.org/) / [CNCF Kubernetes](https://kubernetes.io/)  
 -   :handbag: Intern at [Nokia](https://www.nokia.com/)
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
--   :key: GPG key: [`E7FD9CFCABD3C504`](https://github.com/EchoSingh.gpg)
+-   :key: GPG key: [`019BCA2C44879483`](https://github.com/EchoSingh.gpg)
 
 <p align="center">
   <samp>
