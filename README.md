@@ -22,3 +22,10 @@ My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated inst
     <a href="https://www.goodreads.com/aditya_reads">goodreads</a> 
   </samp>
 </p>
+
+<details>
+  <summary>Discord Status</summary>
+
+[![My Discord status](https://dsc-readme.tsuni.dev/api/user/1444981436271825038?banner=https%3A%2F%2Fi.pinimg.com%2F736x%2Fe6%2Fd8%2Ffc%2Fe6d8fc8ebd8a6dde2e8ebba48def3843.jpg&theme=dark&width=512)](https://github.com/TetraTsunami/discord-github-preview)
+
+</details>
