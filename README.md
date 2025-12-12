@@ -9,7 +9,7 @@ My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated inst
 -   :pencil2: [C++](https://github.com/EchoSingh?tab=repositories&type=&language=c%2B%2B&sort=) / [Python](https://github.com/EchoSingh?tab=repositories&type=&language=Python&sort=) / [Java](https://github.com/EchoSingh?tab=repositories&type=&language=Java&sort=) / [LaTeX](https://github.com/EchoSingh?tab=repositories&type=&language=TeX&sort=)  
 -   :package: [Omarchy](https://omarchy.org/) / [Neovim](https://neovim.io/)
 -   :handbag: Intern at [Nokia](https://www.nokia.com/)
-- :video_game: [Steam](https://store.steampowered.com/) (Counter-Strike 2) / [RetroArch](https://www.retroarch.com/)
+- :video_game: [Steam](https://store.steampowered.com/) / [RetroArch](https://www.retroarch.com/)
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
 -   :key: GPG key: [`019BCA2C44879483`](https://github.com/EchoSingh.gpg)
 
