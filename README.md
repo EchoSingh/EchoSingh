@@ -39,7 +39,7 @@ My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated inst
     </td>
     <td align="center">
       <!-- Steam Status (Right) -->
-      <img src="https://steam-stat.vercel.app/api?profileName=rayo_asr" width="260">
+      <img src="https://steam-status-one.vercel.app/card?steamid=76561198764174260" width="300">
       <br>
       <sub>Steam Status</sub>
     </td>
