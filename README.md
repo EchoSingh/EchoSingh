@@ -15,14 +15,20 @@ My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated inst
 
 <p align="center">
   <samp>
+    <!-- Personal -->
     <a href="https://adi-pf.vercel.app">me</a> • 
-    <a href="https://www.linkedin.com/in/adityasinghgdev">linkedin</a> •
-    <a href="https://leetcode.com/u/rayo_n/">leetcode</a> •
-      <a href="https://www.kaggle.com/adi2606">kaggle</a> • 
+    <!-- Professional -->
+    <a href="https://www.linkedin.com/in/adityasinghgdev">linkedin</a> • 
+    <a href="https://hub.docker.com/u/aditya26062003">docker</a> •
+    <!-- Coding / Competitions -->
+    <a href="https://leetcode.com/u/rayo_n/">leetcode</a> • 
+    <a href="https://www.kaggle.com/adi2606">kaggle</a> • 
+    <!-- Writing / Reading -->
     <a href="https://hashnode.com/@echosingh">newsletter</a> • 
-    <a href="https://www.goodreads.com/aditya_reads">goodreads</a> 
+    <a href="https://www.goodreads.com/aditya_reads">goodreads</a>
   </samp>
 </p>
+
 
 <details>
   <summary>Status</summary>
