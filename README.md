@@ -25,8 +25,6 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
 
 <p align="center">
   <samp>
-    <!-- Personal -->
-    <a href="https://adi-pf.vercel.app">me</a> •
     <!-- Professional -->
     <a href="https://www.linkedin.com/in/adityasinghgdev">linkedin</a> •
     <a href="https://hub.docker.com/u/aditya26062003">docker</a> •
