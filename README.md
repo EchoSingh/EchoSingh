@@ -38,10 +38,10 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
 </p>
 
 <!-- =====================
-     STATUS SECTION (DISABLED)
+     STATUS SECTION 
 ===================== -->
 
-<!--
+
 <details>
   <summary>Status</summary>
 
@@ -56,7 +56,6 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
         <br />
         <sub>Discord Status</sub>
       </td>
-
       <td align="center">
         <img
           src="https://steam-status-one.vercel.app/card?steamid=76561198764174260"
@@ -68,4 +67,3 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
     </tr>
   </table>
 </details>
--->
