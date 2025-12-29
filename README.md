@@ -49,7 +49,7 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
       <td align="center">
         <a href="https://github.com/TetraTsunami/discord-github-preview">
           <img
-            src="https://dsc-readme.tsuni.dev/api/user/1444981436271825038?banner=https%3A%2F%2Fi.pinimg.com%2F736x%2Fe6%2Fd8%2Ffc%2Fe6d8fc8ebd8a6dde2e8ebba48def3843.jpg&theme=dark&width=260"
+            src="https://dsc-readme.tsuni.dev/api/user/1444981436271825038?banner=https://i.pinimg.com/736x/1e/57/41/1e5741cd9716634b91d34923d4afad55.jpg&theme=dark&width=260"
           />
         </a>
         <br />
