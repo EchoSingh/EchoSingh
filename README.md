@@ -41,9 +41,8 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
      STATUS SECTION 
 ===================== -->
 
-
 <details>
-  <summary>Status</summary>
+  <summary><b>Status</b></summary>
 
   <table>
     <tr>
@@ -58,7 +57,7 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
       </td>
       <td align="center">
         <img
-          src="https://steam-status-one.vercel.app/card?steamid=76561198764174260"
+          src="https://steam-stat-nu.vercel.app/api?profileName=rayo_asr"
           width="300"
         />
         <br />
@@ -66,4 +65,5 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
       </td>
     </tr>
   </table>
+
 </details>
