@@ -18,14 +18,18 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.steam.svg
-          user: ywh555hhh
+          user: EchoSingh
           template: classic
           base: header
-          config_timezone: Asia/Shanghai
 
+          # your timezone
+          config_timezone: Asia/Calcutta
+
+          # Steam only
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: ${{ secrets.STEAM_USER_ID }}
+
           plugin_steam_sections: player, recently-played
-          plugin_steam_games_limit: 6
-          plugin_steam_recent_games_limit: 5
+          plugin_steam_games_limit: 3
+          plugin_steam_recent_games_limit: 2
