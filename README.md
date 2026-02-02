@@ -42,28 +42,11 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
 ===================== -->
 
 <details>
-  <summary><b>Status</b></summary>
+  <summary><b>Steam Status</b></summary>
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/TetraTsunami/discord-github-preview">
-          <img
-            src="https://dsc-readme.tsuni.dev/api/user/1444981436271825038?banner=https://i.pinimg.com/736x/1e/57/41/1e5741cd9716634b91d34923d4afad55.jpg&theme=dark&width=260"
-          />
-        </a>
-        <br />
-        <sub>Discord Status</sub>
-      </td>
-      <td align="center">
-        <img
-          src="https://steam-stat-nu.vercel.app/api?profileName=rayo_asr"
-          width="300"
-        />
-        <br />
-        <sub>Steam Status</sub>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="./metrics.steam.svg" />
+  </p>
 
 </details>
+
