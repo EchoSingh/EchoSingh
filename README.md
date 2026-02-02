@@ -5,7 +5,7 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
   <img
     align="right"
     width="35%"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EchoSingh&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EchoSingh&theme=nord_dark"
   />
 </picture>
 
