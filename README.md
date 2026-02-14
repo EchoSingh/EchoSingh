@@ -42,11 +42,23 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
 ===================== -->
 
 <details>
-  <summary><b>Steam Status</b></summary>
+  <summary><b>Steam & Discord Status</b></summary>
 
-  <p align="center">
-    <img src="./metrics.steam.svg" />
-  </p>
+  <br>
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="./metrics.steam.svg" />
+      </td>
+      <td align="center">
+        <a href="https://discord.com/users/1444981436271825038">
+          <img src="https://lanyard.cnrad.dev/api/1444981436271825038?theme=dark&borderRadius=20px&idleMessage=sleeping" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </details>
+
 
