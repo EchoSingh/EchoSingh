@@ -17,7 +17,7 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
   [LaTeX](https://github.com/EchoSingh?tab=repositories&type=&language=TeX&sort=)
 - :package: [Omarchy](https://omarchy.org/) / [Neovim](https://neovim.io/)
 - :handbag: Intern at [Nokia](https://www.nokia.com/)
-- :video_game: [Steam](https://store.steampowered.com/) / [RetroArch](https://www.retroarch.com/)
+- :video_game: [Steam](https://store.steampowered.com/)
 - :thought_balloon: Ask me anything at
   [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
 - :key: GPG key:
@@ -33,6 +33,7 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
     <a href="https://www.kaggle.com/adi2606">kaggle</a> •
     <!-- Writing / Reading -->
     <a href="https://hashnode.com/@echosingh">newsletter</a> •
+    <a href="https://discordapp.com/users/1444981436271825038">discord</a> •
     <a href="https://www.goodreads.com/aditya_reads">goodreads</a>
   </samp>
 </p>
