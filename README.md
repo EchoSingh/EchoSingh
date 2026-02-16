@@ -54,7 +54,7 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
       </td>
       <td align="center">
         <a href="https://discord.com/users/1444981436271825038">
-          <img src="https://lanyard.cnrad.dev/api/1444981436271825038?theme=dark&borderRadius=20px&idleMessage=sleeping" />
+          <img src="https://lanyard.kyrie25.dev/api/1444981436271825038?theme=dark&forceGradient=false&showDisplayName=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideActivity=false&hideDiscrim=false&hideProfile=false&hideClan=false&hideStatus=false&hideDecoration=false&imgStyle=circle&showBanner=animated&idleMessage=Sleeping%20" />
         </a>
       </td>
     </tr>
