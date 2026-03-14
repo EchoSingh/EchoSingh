@@ -14,7 +14,7 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
 - :pencil2: [C++](https://github.com/EchoSingh?tab=repositories&type=&language=c%2B%2B&sort=)
 - :package: [Omarchy](https://omarchy.org/) / [Neovim](https://neovim.io/)
 - :handbag: Intern at [Nokia](https://www.nokia.com/)
-- :video_game: [Steam](https://store.steampowered.com/)
+- :video_game: [Steam](https://steamcommunity.com/id/rayo_asr/)
 - :thought_balloon: Ask me anything at
   [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
 - :key: GPG key:
