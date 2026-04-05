@@ -18,7 +18,7 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
 - :thought_balloon: Ask me anything at
   [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
 - :key: GPG key:
-  [`402746E17ADBEDC8`](https://github.com/EchoSingh.gpg)
+  [`47206E0C855AAF11`](https://github.com/EchoSingh.gpg)
 
 <p align="center">
   <samp>
