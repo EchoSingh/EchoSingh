@@ -11,25 +11,27 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
 
 ### :space_invader: More About Me
 
-- :pencil2: [C++](https://github.com/EchoSingh?tab=repositories&type=&language=c%2B%2B&sort=)
-- :package: [Omarchy](https://omarchy.org/) / [Neovim](https://neovim.io/)
-- :handbag: Intern at [Nokia](https://www.nokia.com/)
+- :pencil2: C++
+- :package: [Fedora](https://fedoraproject.org/) (immutable) • [Niri](https://github.com/YaLTeR/niri) (Wayland)
+- :gear: Container-first development (C++) • [VS Code](https://code.visualstudio.com/) • [Sublime Text](https://www.sublimetext.com/)
+- :desktop_computer: Wayland-first, keyboard-driven workflow
+- :handbag: Software Engineer at [Nokia](https://www.nokia.com/)
 - :video_game: [Steam](https://steamcommunity.com/id/rayo_asr/)
-- :thought_balloon: Ask me anything at
+- :thought_balloon: Ask me anything at  
   [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
-- :key: GPG key:
-  [`B563E73BCE72AF3D`](https://github.com/EchoSingh.gpg)
+- :key: GPG key:  
+  `A678D747B9840F9B`
 
 <p align="center">
   <samp>
     <!-- Professional -->
     <a href="https://hub.docker.com/u/aditya26062003">Docker</a> •
-    <!-- Coding / Competitive Programming -->
+    <!-- Coding -->
     <a href="https://leetcode.com/u/rayo_n/">LeetCode</a> •
     <a href="https://www.hackerrank.com/profile/rayo_n">HackerRank</a> •
     <a href="https://www.codewars.com/users/rayo_asr">Codewars</a> •
     <a href="https://www.kaggle.com/adi2606">Kaggle</a> •
-    <!-- Community / Writing -->
+    <!-- Community -->
     <a href="https://stackoverflow.com/users/23373756/aditya-singh">Stack Overflow</a> •
     <a href="https://hashnode.com/@echosingh">Newsletter</a> •
     <!-- Social -->
@@ -60,5 +62,3 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
   </table>
 
 </details>
-
-
