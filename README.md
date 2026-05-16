@@ -13,8 +13,7 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
 
 - :pencil2: C++
 - :package: [Fedora](https://fedoraproject.org/) (immutable) • [Niri](https://github.com/YaLTeR/niri) (Wayland)
-- :gear: Container-first development (C++) • [VS Code](https://code.visualstudio.com/) • [Sublime Text](https://www.sublimetext.com/)
-- :desktop_computer: Wayland-first, keyboard-driven workflow
+- :gear: [VS Code](https://code.visualstudio.com/) • [Sublime Text](https://www.sublimetext.com/)
 - :handbag: Software Engineer at [Nokia](https://www.nokia.com/)
 - :video_game: [Steam](https://steamcommunity.com/id/rayo_asr/)
 - :thought_balloon: Ask me anything at  
