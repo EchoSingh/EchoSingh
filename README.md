@@ -43,7 +43,7 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
 ===================== -->
 
 <details>
-  <summary><b>Steam & Discord Status</b></summary>
+  <summary><b>Steam Status</b></summary>
 
   <br>
 
@@ -53,8 +53,8 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
         <img src="./metrics.steam.svg" />
       </td>
       <td align="center">
-        <a href="https://discord.com/users/1444981436271825038">
-          <img src="https://lanyard.kyrie25.dev/api/1444981436271825038" />
+        <a href="https://steamcommunity.com/id/rayo_asr/">
+          <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198764174260&show_recent_game_bg=true" />
         </a>
       </td>
     </tr>
