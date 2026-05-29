@@ -12,14 +12,14 @@ My name is **Aditya Singh**. I’m a final-year B.E. student at an affiliated in
 ### :space_invader: More About Me
 
 - :pencil2: C++
-- :package: [LainOS](https://lainos.net/) (Arch Linux)
+- :package: Arch btw
 - :gear: [Neovim](https://neovim.io/)
 - :handbag: Software Engineer at [Nokia](https://www.nokia.com/)
 - :video_game: [Steam](https://steamcommunity.com/id/rayo_asr/)
 - :thought_balloon: Ask me anything at  
   [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
 - :key: GPG key:  
-  `87DCFC736B8B0F3B`
+  `45236DE1160448DF`
 
 <p align="center">
   <samp>
